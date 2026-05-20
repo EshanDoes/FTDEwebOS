@@ -133,7 +133,7 @@ function ContactForm(){
     setFormUnfilled(false)
     try {
       const res = await fetch('/api/contact', {
-        method: 'POST',
+        method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           email: emailRef.current.value,
