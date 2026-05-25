@@ -3,8 +3,9 @@ import { put, get } from "@vercel/blob";
 export default async function handler(req, res) {
   if (req.method == 'PUT') {
     try {
-      const { email, message, subject } = req.body;
+      res.setHeader('Cache-Control', 'no-store')
 
+      const { email, message, subject } = req.body;
       const currentRequests = await get("emails.json", {
         access: 'private',
         token: process.env.BLOB_READ_WRITE_TOKEN,
@@ -16,7 +17,7 @@ export default async function handler(req, res) {
       } else{
         newRequests = []
       }
-      const addedRequest = { id: Math.random() / Math.random(), ...req.body, }
+      const addedRequest = { id: newRequests.length * Math.random(), ...req.body, }
       newRequests.push(addedRequest)
       console.log(newRequests)
 

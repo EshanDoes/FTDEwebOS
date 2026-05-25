@@ -55,7 +55,7 @@ export default function Main(){
         <br />
         <br />
         <br />
-        <small style={{ placeSelf: "center" }}>Article 2 - May 1st, 2026 - Usually updated every Friday</small>
+        <small style={{ placeSelf: "center" }}>Article 2 - May 1st, 2026 - Not updated every Friday</small>
         {/*<p style="text-align: center;"><small>All articles taken from Mystery Man's Hobbyist News</small></p>*/}
     </Window>
     <Window windowName="contactWindow">
@@ -124,6 +124,7 @@ export default function Main(){
 
 function ContactForm(){
   const [formUnfilled, setFormUnfilled] = useState(true)
+  const [errorFound, setErrorFound] = useState(false)
   const emailRef = useRef(null)
   const messageRef = useRef(null)
   const subjectRef = useRef(null)
@@ -144,7 +145,7 @@ function ContactForm(){
       if (!res.ok) throw new Error('Upload failed');
     } catch (error) {
       console.error(error);
-      setFormUnfilled(true); // Allow retry on error
+      setErrorFound(true); // Allow retry on error
     }
   }
   function resetForm(){
@@ -169,5 +170,5 @@ function ContactForm(){
                 <span aria-live="polite"><p>At least one of the fields hasn't been filled out. Please fill out the field and resubmit.</p></span>
                 </form>
               </>
-  return (<>{ formUnfilled ? form : <><p>Form sent! Now you can wait for a response...</p><button className="actualButton" onClick={resetForm}><p>Send another</p></button></>}</>)
+  return (<>{ formUnfilled ? form : <>{ errorFound ? <p>Looks like an error occured when you tried to submit! Click the button below to try again.</p> : <p>Form sent! Now you can wait for a response...</p>}<button className="actualButton" onClick={resetForm}><p>Send another</p></button></>}</>)
 }
