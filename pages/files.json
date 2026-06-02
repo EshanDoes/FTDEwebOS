@@ -154,18 +154,13 @@
           ]
         },
         {
-          "name": "omega&omex",
+          "name": "omex",
           "type": "folder",
           "content": [
             {
-              "name": "omegaNotes",
+              "name": "notes",
               "type": "text",
-              "content": "An alien ghost thing that seems to have been very, very, very lonely before the collapse. Sucks to suck.<br><br>- Seems to partner up and split off from others frequently<br>- Very emotional in multiple circumstances<br>- Has some decent level of strength, nothing boss-worthy but very capable in a fight<br><br>They seem to have regained a false hope they lost before the collapse. That hope must be kept alive while still not being granted, which is a delicate balance near impossible to achieve. However, it must be done."
-            },
-            {
-              "name": "omexNotes",
-              "type": "text",
-              "content": "A variation of Omega that seems to have gained a human vessel. I assume this is an alternate universe form of Omega, although there's a lack of data from between the last time I saw Omega and the first time I saw Omex, so it's highly probable that Omega happened to possess a random body.<br><br>- Seems to be part of Syntrex's party<br>- Slightly stronger than Omega in some ways, weaker in others<br>- Probably has some level of immortality, but definitely not invincible<br><br>Their fate seems to be in the right direction, however based off the fact they seem to be one of Syntrex's most loyal servants, it would be best to keep an eye on them."
+              "content": "An alien ghost thing (apparently the species is called Böotlicker, I think) who's possessed a dead body. She seems to have been extremely lonely before the collapse, but has now managed to find friends and allies. Very important distinction between the two.<br><br>- Seems to be part of Syntrex's party<br>- Has some decent level of strength, nothing boss-worthy but very capable in a fight<br>- Doesn't really seem to be able to use her own strength that well (does she even know how strong she can be)<br><br>Their fate seems to be in the right direction, however based off the fact they seem to be one of Syntrex's most loyal servants, it would be best to keep an eye on them."
             }
           ]
         },
@@ -187,7 +182,7 @@
             {
               "name": "iroNotes",
               "type": "text",
-              "content": "A Traveler seemingly the \"Ninjago\" series but not exactly from the primary Ninjago universe, who's also ended up in the universe from the collapse. For some reason however, she doesn't seem to have realised it yet.<br><br>- Seems to have the ability of changing the colours of whatever she can touch.<br>- Quick to adapt to this new situation<br><br>No need to do anything about her, fate seems to be leading her right."
+              "content": "A traveler seemingly from the \"Ninjago\" series but not exactly from the primary Ninjago universe, who's also ended up in the universe from the collapse. For some reason however, she doesn't seem to have realised it yet.<br><br>- Seems to have the ability of changing the colours of whatever she can touch.<br>- Quick to adapt to this new situation<br><br>No need to do anything about her, fate seems to be leading her right."
             },
             {
               "name": "graineNotes",
@@ -239,17 +234,17 @@
                   "type": "text",
                   "content": "This folder is just full of stuff from this one guy who keeps contacting me asking stuff about Ravenpaw. Seriously, he even put signs in front of my base in the Minecraft server asking about Ravenpaw. Like, do you think I know what's going on with Ravenpaw? I barely even know he exists! You gotta ask the other guy about him, I'm sure he knows a lot more than I do."
                 },{
-                  "name": "Message 3",
+                  "name": "Message 1",
                   "type": "text",
-                  "content": "So uh, I was going through the system as usual when I noticed that Ravenpaw was STILL stranded? I assume this was a mistake because I'm sure you know that if he's left there then I'LL SKIN YOU ALIVE.<br> DON'T TEST ME I'LL DO IT!<br>Anyway, I was just making sure that you're taking care of that.<br><br>Sincerely, The Ravenpaw Fan<br>P.S. I'M ALWAYS WATCHING"
+                  "content": "LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME<br><br>With \"Love\", The Ravenpaw Fan"
                 },{
                   "name": "Message 2",
                   "type": "text",
                   "content": "Genuinely why? This time it's not a repetitive message, but I genuinely wonder what Ravenpaw did for this to happen to him. He just wants to see his mate. And Barley wants to see him too, I'm sure. You're not just hurting Ravenpaw with this, but the entire forest. Barley, Firestar, Graystripe... they all knew him and loved him. And now he's been stolen away. Now he can't see them and they can't see him. I hope you realize this and decide to make it right.<br><br>Sincerely, The Ravenpaw Fan"
                 },{
-                  "name": "Message 1",
+                  "name": "Message 3",
                   "type": "text",
-                  "content": "LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME<br><br>With \"Love\", The Ravenpaw Fan"
+                  "content": "So uh, I was going through the system as usual when I noticed that Ravenpaw was STILL stranded? I assume this was a mistake because I'm sure you know that if he's left there then I'LL SKIN YOU ALIVE.<br> DON'T TEST ME I'LL DO IT!<br>Anyway, I was just making sure that you're taking care of that.<br><br>Sincerely, The Ravenpaw Fan<br>P.S. I'M ALWAYS WATCHING"
                 },{
                   "name": "Message 4",
                   "type": "text",
@@ -420,6 +415,17 @@
               "name": "25th",
               "type": "html",
               "content": "<p>I got busy working on an admin panel to see the contacts.<br><br>- █████</p>"
+            }
+          ]
+        },
+        {
+          "name": "2026June",
+          "type": "folder",
+          "content": [
+            {
+              "name": "1st",
+              "type": "html",
+              "content": "<p>So, I found out that Omega and Omex are the same person, so I gotta update the character logs. Great way to start the month!<br>Outside of that, I've been working on fixing bugs in that admin panel. I keep seeing spam mail from that one guy asking about Ravenpaw. It's gotten to the point where he's gonna start trying to threaten Warren's to help him find Ravenpaw. Like, do you even know how deadly their meals are? Can you imagine how much more deadly it would be to go against them? Have you ever thought about how Warren's hasn't been destroyed by the government? You think they haven't tried??? I had to tell him Ravenpaw is in Kirby's basement, and even then, he's gonna leave there in like five minutes!<br>... Wait, telling him Ravenpaw's in Kirby's basement is probably gonna make things worse.<br><br>- █████</p>"
             }
           ]
         }

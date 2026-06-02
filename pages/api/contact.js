@@ -17,7 +17,7 @@ export default async function handler(req, res) {
       } else{
         newRequests = []
       }
-      const addedRequest = { id: newRequests.length * Math.random(), ...req.body, }
+      const addedRequest = { id: newRequests.length + Math.random(), ...req.body, }
       newRequests.push(addedRequest)
       console.log(newRequests)
 
