@@ -14,7 +14,8 @@ export default function Main(){
     <link rel="icon" href="/images/siteicon.png" />
     <title>██████ OS</title>
   </Head>
-  <span className="onTop" id="bgOverlay" />
+  <span id="bgOverlay" />
+  <img src="/images/ui/main/monitor.svg" id="monitorOverlay" />
   <div ref={mainBody} id="body">
     <div className="icons">
       <WindowIcon window="folderWindow" name="files" />
@@ -37,25 +38,15 @@ export default function Main(){
       />
     </Window>
     <Window windowName="newsWindow">
-      <img src="/images/news/article2/header.png" className="fill" alt="A header image featuring a pen." />
-        <h1>NEW WARREN'S RESTRUANT IN SPACE</h1>
-        <p>The famously deadly food chain Warren's has decided to launch a restruant in the most unexpected location imaginable: space. They usually have their locations in either Utah or Ohio, which makes this decision extremely surprising.</p>
-        <p>
-          The new location has launched with an exclusive meal: the 40 Cent Special. It's the exact same as the 30 Cent Special, except they added 10 more cents to both the price and the plate. Many customers call this <q>a dissapointment to Warren's as a whole</q> because of the similaritiy to the 30 Cent Special. A few days after the announcement, a statement was made from Warren's adressing the 40 Cent Special. Here's an excerpt from their statement:
-          <br />
-          <br />
-          <q>
-            We believe that at Warren's, anything can happen, which we mean in the most literal way we possibly can. That is why we decided to make the 40 Cent Special; after all, it would be completely unexpected for us, which is what we at Warren's strive to do. We also try to strive to make food that kills you, but we haven't been up on that, and for that we apologize. We will try to do better on that department of Warren's.
-          </q>
-          <br />
-          <br />
-          There were mixed opinions on this statement. Some believe Warren's managed to pull out their biggest trick yet with this, others believe that Warren's priorities should be in making the food more unique than unexpected. Either way, one thing's for sure: they're still going to get customers in space, despite the little amount of people there.
-        </p>
-        <small>Wow, that was a much better ending than last article. I should try and work on these endings more, they're kinda important.</small>
+      <img src="/images/news/article3/header.png" className="fill" alt="A header image featuring a pen." />
+        <h1>CONSPIRACY THEORIES ABOUT CANCELLED SPLATFEST</h1>
+        <p>Some of you may remember that there was supposed to be a Splatfest that would happen a few months ago. It was hyped up quite a bit, even including some activites for people who aren't Inklings or Octolings, such as regular paintball fights. However, if you look back, there doesn't seem to be any sort of trace of such a Splatfest even being planned. Why is that?</p>
+        <p>There seem to be some people online who say this isn't just a coincidence. While it could be chalked up to a Mandela Effect, a mass misremembering of something, this doesn't seem to have a clear source for there to be a Mandela Effect. These people theorize that, somehow, these memories were added in by some entity, or that somehow this entity removed any sort of trace of there being a Splatfest.</p>
+        <p>As for my personal opinion?</p>
+        <p>I don't have one, because I made up this entire article on the spot.</p>
         <br />
         <br />
-        <br />
-        <small style={{ placeSelf: "center" }}>Article 2 - May 1st, 2026 - Not updated every Friday</small>
+        <p style={{ placeSelf: "center" }}><small>Article 3 - July 8th, 2026 - Not updated every Friday</small></p>
         {/*<p style="text-align: center;"><small>All articles taken from Mystery Man's Hobbyist News</small></p>*/}
     </Window>
     <Window windowName="contactWindow">
@@ -119,15 +110,26 @@ export default function Main(){
   preload('/images/ui/icons/files/text.png', {as: 'image'})
   preload('/images/ui/icons/files/html.png', {as: 'image'})
 
+  useEffect(() => {
+    let deselectButtons = document.querySelectorAll("button, a").forEach(function(e) {
+      e.addEventListener("click", (ele) => {
+        ele.tabIndex = -1
+        ele.tabIndex = 0
+      })
+    })
+  })
+
   return (output);
 }
 
 function ContactForm(){
   const [formUnfilled, setFormUnfilled] = useState(true)
   const [errorFound, setErrorFound] = useState(false)
+  const formRef = useRef(null)
   const emailRef = useRef(null)
   const messageRef = useRef(null)
   const subjectRef = useRef(null)
+  const invalidFormRef = useRef(null)
 
   async function sendForm(e){
     e.preventDefault();
@@ -145,29 +147,45 @@ function ContactForm(){
       if (!res.ok) throw new Error('Upload failed');
     } catch (error) {
       console.error(error);
-      setErrorFound(true); // Allow retry on error
+      setErrorFound(true);
     }
   }
   function resetForm(){
     setFormUnfilled(true)
   }
 
+  useEffect(() => {
+    const form = formRef.current
+    const popup = invalidFormRef.current
+    const email = emailRef.current
+    const message = messageRef.current
+
+    form.addEventListener("submit", (e) => {
+      e.preventDefault()
+
+      if(!email.checkValidity() || !message.checkValidity()){
+        popup.style.display = "default"
+      }
+      console.log("Form submission")
+    })
+  }, [formRef, invalidFormRef])
+
   const form = <><p>Contact me!</p>
                 <br />
-                <form action="/hello" method="POST" autoComplete="off" onSubmit={sendForm}>
+                <form action="/hello" method="POST" autoComplete="off" onSubmit={sendForm} ref={formRef}>
                 <label htmlFor="subject">Subject:</label>
                 <input type="text" id="subjectInput" name="subject" ref={subjectRef} />
                 <br />
-                <label htmlFor="email">E-mail:</label>
+                <label htmlFor="email">E-mail: (Required)</label>
                 <input type="email" id="emailInput" name="email" ref={emailRef} required />
                 <br />
-                <label htmlFor="message">Message:</label>
+                <label htmlFor="message">Message: (Required)</label>
                 <br />
                 <textarea id="messageInput" name="message" ref={messageRef} required />
                 <br />
                 <input type="submit" value="Send" />
                 <br />
-                <span aria-live="polite"><p>At least one of the fields hasn't been filled out. Please fill out the field and resubmit.</p></span>
+                <span style={{ display: "none" }} ref={formRef}><p>At least one of the fields hasn't been filled out properly. Please fill out the field and resubmit.</p></span>
                 </form>
               </>
   return (<>{ formUnfilled ? form : <>{ errorFound ? <p>Looks like an error occured when you tried to submit! Click the button below to try again.</p> : <p>Form sent! Now you can wait for a response...</p>}<button className="actualButton" onClick={resetForm}><p>Send another</p></button></>}</>)

@@ -40,30 +40,23 @@ body{
 
 #body{
     background-color: #0f380f;
-    background-image: var(--bgImage);
     background-size: 4.8px;
-    image-rendering: pixelated;
-    position: absolute;
     overflow: hidden;
     cursor: var(--cursor);
     z-index: 0;
     filter: blur(0.3px);
-
-    top: var(--bodyTop);
-    left: var(--bodyLeft);
-    height: var(--bodyHeight);
-    width: var(--bodyWidth);
-
-    animation: bgMove var(--bgAnimLength) linear 0s infinite;
 }
 #bgOverlay{
-    background-image: var(--bgImage);
     background-size: 3.2px;
-    image-rendering: pixelated;
-    position: absolute;
     pointer-events: none;
     opacity: 0.15;
     filter: blur(0.6px);
+    z-index: 1;
+}
+#body, #bgOverlay{
+    image-rendering: pixelated;
+    position: absolute;
+    background-image: var(--bgImage);
 
     top: var(--bodyTop);
     left: var(--bodyLeft);
@@ -75,6 +68,16 @@ body{
 @keyframes bgMove{
     0% {background-position-y: 0px;}
     100% {background-position-y: 9.6px;}
+}
+#monitorOverlay{
+    position: absolute;
+    z-index: 10;
+    pointer-events: none;
+
+    top: var(--bodyTop);
+    left: var(--bodyLeft);
+    height: var(--bodyHeight);
+    width: var(--bodyWidth);
 }
 
 #body ::selection{
@@ -221,7 +224,7 @@ iframe{position: sticky}
     width: calc(100% - 172px);
     background-color: #518d23;
     border-top: 4px solid #306230;
-    padding-left: 172px;
+    padding-left: 176px;
     image-rendering: pixelated;
     shape-rendering: pixelated;
     text-rendering: pixelated;
@@ -249,7 +252,7 @@ iframe{position: sticky}
 
 #notifButton{
     position: absolute;
-    right: 0px;
+    right: 2px;
     cursor: var(--hoverCursor);
 }
 #notifButton:hover img{
