@@ -149,7 +149,7 @@
             {
               "name": "syntrexNotes",
               "type": "text",
-              "content": "A being capable of manipulating the very code of worlds themselves. Despite the main universe of the clustural collapse no longer being made of code, Syntrex still seems to be able to use a lot of his abilities in this new environment.<br><br>- Has already gained multiple servants which seem very loyal to his side<br>- Capable of doing a lot of damage if he ever wanted to<br>- Has some kind of goal it seems, although said goal is unknown at the moment<br><br>He seems to have been evil at some point, although he has defied his destined path and seems to want to do something else. Some negotiation could be used to bring him back on the right direction to his fate."
+              "content": "A being capable of manipulating the very code of worlds themselves. Despite the main universe of the clustural collapse not being made of code, Syntrex still seems to be able to use a lot of his abilities in this new environment, likely because a piece of the world he came from is here too.<br><br>- Has already gained multiple servants which seem very loyal to his side<br>- Capable of doing a lot of damage if he ever wanted to<br>- Has some kind of goal it seems, although said goal is unknown at the moment<br><br>He seems to have been evil at some point, although he has defied his destined path and want to do something else. I've come to the conclusion that he wants to defy fate. It would be best to send the puppet to give him a warning once he gets to the shrine. We'll make proper accomodations if he doesn't listen."
             }
           ]
         },
@@ -213,7 +213,7 @@
             {
               "name": "notes",
               "type": "text",
-              "content": "A monster which seems to be from \"Undertale,\" but doesn't come from the Undertale universe itself. There seems to be many different forms of him throughout alternate universes.<br><br>- Seems to be very in tune with magic<br>- Already died once or twice after entering the collapse, but managed to recover<br>- Followed Syntrex, may possibly be part of his team?<br><br>Through the limited data gathered, he seems to be on the same direction that leads to his fate. However, more data is needed before anything can be concluded."
+              "content": "A monster which seems to be from \"Undertale,\" but more specifically, from an alternate universe from it. There seems to be many different forms of him throughout another group alternate universes, most of which have got caught in the collapse.<br><br>- Seems to be very in tune with magic<br>- Already died once or twice after entering the collapse, but managed to recover<br>- Following Syntrex, may possibly be part of his team?<br><br>He's going with Syntrex towards the shrine, but still seems to be on the right path to his fate from the limited data we have. We'll have to make sure that the two are separated if Entropy tries to go inside."
             }
           ]
         },
@@ -434,6 +434,17 @@
               "name": "1st",
               "type": "html",
               "content": "<p>So, I found out that Omega and Omex are the same person, so I gotta update the character logs. Great way to start the month!<br>Outside of that, I've been working on fixing bugs in that admin panel. I keep seeing spam mail from that one guy asking about Ravenpaw. It's gotten to the point where he's gonna start trying to threaten Warren's to help him find Ravenpaw. Like, do you even know how deadly their meals are? Can you imagine how much more deadly it would be to go against them? Have you ever thought about how Warren's hasn't been destroyed by the government? You think they haven't tried??? I had to tell him Ravenpaw is in Kirby's basement, and even then, he's gonna leave there in like five minutes!<br>... Wait, telling him Ravenpaw's in Kirby's basement is probably gonna make things worse.<br><br>- █████</p>"
+            }
+          ]
+        },
+        {
+          "name": "2026September",
+          "type": "folder",
+          "content": [
+            {
+              "name": "21st",
+              "type": "html",
+              "content": "<p>They're reaching the shrine.<br><br>Syntrex, Entropy, and Mystery Man seem to be on their way to the shrine of fate. It seems to be because they want answers as to what's going on. It's likely that, by now, Syntrex knows that something is going on with fate, and probably wants to stop it.<br>Meanwhile, however, a robot named Jett and two people from the Abyssal Plane are also approaching the location of the shrine. They've settled at a nearby city for now, but it won't be long until they notice it. We'll have to prepare quickly, and make sure the puppet is ready for their arrival.<br><br>- █████</p>"
             }
           ]
         }

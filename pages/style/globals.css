@@ -16,8 +16,8 @@
     --bgImage: url("/images/ui/main/bg.png");
     --bgAnimLength: 5s;
 
-    --cursor: url("/images/ui/main/customCursor.png"), auto;
-    --hoverCursor: url("/images/ui/main/customCursor-click.png"), pointer;
+    --cursor: url("/images/ui/main/cursor.png"), auto;
+    --hoverCursor: url("/images/ui/main/cursor-click.png"), pointer;
 
     --borderWidth: calc((100cqw - var(--bodyWidth)) / 2)
     --borderHeight: calc((100cqh - var(--bodyHeight)) / 2)
@@ -126,11 +126,16 @@ h1{
 #body h1{
     color: #0f380f;
 }
-small{
-    font-size: 16px;
-    font-family: DD;
+small, ::placeholder{
     text-rendering: pixelated;
     color: #306230;
+}
+small {
+    font-size: 16px;
+    font-family: DD;
+}
+::placeholder{
+    font-family: DD-thin;
 }
 .fileLink{
     color: #6dbd16;
@@ -155,7 +160,7 @@ label {
 input {
     color: #306230;
     background-color: #518d23;
-    font-family: DD-thin;
+    font-family: DD;
     font-size: 32px;
     margin: 4px;
     text-rendering: pixelated;
@@ -170,6 +175,7 @@ input[type="submit"], .actualButton{
     cursor: var(--hoverCursor);
     outline: 2px solid #306230;
     margin: 2px;
+    font-family: DD;
 }
 input[type="submit"]:hover, input[type="submit"]:focus, .actualButton:hover, .actualButton:focus{
     outline-color: #6dbd16;
@@ -181,7 +187,7 @@ input[type="submit"]:hover, input[type="submit"]:focus, .actualButton:hover, .ac
 textarea {
     color: #306230;
     background-color: #518d23;
-    font-family: DD-thin;
+    font-family: DD;
     font-size: 32px;
     margin: 4px;
     text-rendering: pixelated;
@@ -428,7 +434,7 @@ iframe{position: sticky}
 }
 
 .onTop{
-    z-index: calc(infinity);
+    z-index: 99999999;
 }
 .animated{
     transition: 0.4s ease-in-out;

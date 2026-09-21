@@ -2,7 +2,7 @@ import Head from 'next/head';
 import { useRef, useEffect, useState } from 'react';
 import { preload } from 'react-dom';
 
-import { Window, SimpleWindow, FileWindow, WindowDiv, WindowIcon, openWindow, Notification } from '../components/interactive.js'
+import { Window, SimpleWindow, FileWindow, WindowDiv, WindowIcon, openWindow, Notification, Cursor } from '../components/interactive.js'
 import { Time } from '../components/live.js'
 
 export default function Main(){
@@ -38,15 +38,12 @@ export default function Main(){
       />
     </Window>
     <Window windowName="newsWindow">
-      <img src="/images/news/article3/header.png" className="fill" alt="A header image featuring a pen." />
-        <h1>CONSPIRACY THEORIES ABOUT CANCELLED SPLATFEST</h1>
-        <p>Some of you may remember that there was supposed to be a Splatfest that would happen a few months ago. It was hyped up quite a bit, even including some activites for people who aren't Inklings or Octolings, such as regular paintball fights. However, if you look back, there doesn't seem to be any sort of trace of such a Splatfest even being planned. Why is that?</p>
-        <p>There seem to be some people online who say this isn't just a coincidence. While it could be chalked up to a Mandela Effect, a mass misremembering of something, this doesn't seem to have a clear source for there to be a Mandela Effect. These people theorize that, somehow, these memories were added in by some entity, or that somehow this entity removed any sort of trace of there being a Splatfest.</p>
-        <p>As for my personal opinion?</p>
-        <p>I don't have one, because I made up this entire article on the spot.</p>
+      <img src="/images/news/finalarticle/header.png" className="fill" alt="A header image featuring a pen." />
+        <h1>NEWS CANCELLED</h1>
+        <p>I've gotten extremely busy. Like, really busy. I ended up having to bring these people to a shrine that says something about fate. With how busy I am, I've realized I can't commit to making news, so I'm cancelling it until further notice.</p>
         <br />
         <br />
-        <p style={{ placeSelf: "center" }}><small>Article 3 - July 8th, 2026 - Not updated every Friday</small></p>
+        <p style={{ placeSelf: "center" }}><small>Article 3 - September 21st, 2026 - Not updated every Friday</small></p>
         {/*<p style="text-align: center;"><small>All articles taken from Mystery Man's Hobbyist News</small></p>*/}
     </Window>
     <Window windowName="contactWindow">
@@ -110,14 +107,14 @@ export default function Main(){
   preload('/images/ui/icons/files/text.png', {as: 'image'})
   preload('/images/ui/icons/files/html.png', {as: 'image'})
 
-  useEffect(() => {
+  /* useEffect(() => {
     let deselectButtons = document.querySelectorAll("button, a").forEach(function(e) {
-      e.addEventListener("click", (ele) => {
-        ele.tabIndex = -1
-        ele.tabIndex = 0
+      e.addEventListener("click", () => {
+        e.tabIndex = -1
+        e.tabIndex = 0
       })
     })
-  })
+  }) */
 
   return (output);
 }
@@ -133,28 +130,35 @@ function ContactForm(){
 
   async function sendForm(e){
     e.preventDefault();
-    setFormUnfilled(false)
-    try {
-      const res = await fetch('/api/contact', {
-        method: 'PUT',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          email: emailRef.current.value,
-          subject: subjectRef.current.value,
-          message: messageRef.current.value,
-        }),
-      });
-      if (!res.ok) throw new Error('Upload failed');
-    } catch (error) {
-      console.error(error);
-      setErrorFound(true);
+    if (emailRef.current.value == "" || messageRef.current.value == ""){
+      setErrorFound(true)
+    }
+    else {
+      setFormUnfilled(false) 
+      setErrorFound(false)
+      try {
+        const res = await fetch('/api/contact', {
+          method: 'PUT',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            email: emailRef.current.value,
+            subject: subjectRef.current.value,
+            message: messageRef.current.value,
+          }),
+        });
+        if (!res.ok) throw new Error('Upload failed');
+      } catch (error) {
+        console.error(error);
+        setErrorFound(true);
+      }
     }
   }
   function resetForm(){
     setFormUnfilled(true)
+    setErrorFound(false)
   }
 
-  useEffect(() => {
+  /* useEffect(() => {
     const form = formRef.current
     const popup = invalidFormRef.current
     const email = emailRef.current
@@ -168,24 +172,24 @@ function ContactForm(){
       }
       console.log("Form submission")
     })
-  }, [formRef, invalidFormRef])
+  }, [formRef, invalidFormRef]) */
 
   const form = <><p>Contact me!</p>
                 <br />
                 <form action="/hello" method="POST" autoComplete="off" onSubmit={sendForm} ref={formRef}>
                 <label htmlFor="subject">Subject:</label>
-                <input type="text" id="subjectInput" name="subject" ref={subjectRef} />
+                <input type="text" id="subjectInput" name="subject" ref={subjectRef} autoComplete="off" />
                 <br />
-                <label htmlFor="email">E-mail: (Required)</label>
-                <input type="email" id="emailInput" name="email" ref={emailRef} required />
+                <label htmlFor="emailInput">E-mail:</label>
+                <input type="text" id="emailInput" name="emailInput" ref={emailRef} autoComplete="off" placeholder="Required" />
                 <br />
-                <label htmlFor="message">Message: (Required)</label>
+                <label htmlFor="message">Message:</label>
                 <br />
-                <textarea id="messageInput" name="message" ref={messageRef} required />
+                <textarea id="messageInput" name="message" ref={messageRef} autoComplete="off" placeholder="Required" />
+                <br />
+                {errorFound && <span ref={formRef}><p>At least one of the fields hasn't been filled out properly. Please fill out the field and resubmit.</p></span>}
                 <br />
                 <input type="submit" value="Send" />
-                <br />
-                <span style={{ display: "none" }} ref={formRef}><p>At least one of the fields hasn't been filled out properly. Please fill out the field and resubmit.</p></span>
                 </form>
               </>
   return (<>{ formUnfilled ? form : <>{ errorFound ? <p>Looks like an error occured when you tried to submit! Click the button below to try again.</p> : <p>Form sent! Now you can wait for a response...</p>}<button className="actualButton" onClick={resetForm}><p>Send another</p></button></>}</>)
