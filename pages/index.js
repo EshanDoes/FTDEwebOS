@@ -107,11 +107,14 @@ export default function Main(){
   preload('/images/ui/icons/files/text.png', {as: 'image'})
   preload('/images/ui/icons/files/html.png', {as: 'image'})
 
-  /* useEffect(() => {
+   /* useEffect(() => {
     let deselectButtons = document.querySelectorAll("button, a").forEach(function(e) {
       e.addEventListener("click", () => {
-        e.tabIndex = -1
-        e.tabIndex = 0
+        setTimeout(func => {
+          e.tabIndex = -1
+          e.tabIndex = 0
+          document.body.focus()
+        }, 0)
       })
     })
   }) */
@@ -181,7 +184,7 @@ function ContactForm(){
                 <input type="text" id="subjectInput" name="subject" ref={subjectRef} autoComplete="off" />
                 <br />
                 <label htmlFor="emailInput">E-mail:</label>
-                <input type="text" id="emailInput" name="emailInput" ref={emailRef} autoComplete="off" placeholder="Required" />
+                <input type="email" id="emailInput" name="emailInput" ref={emailRef} autoComplete="off" placeholder="Required" />
                 <br />
                 <label htmlFor="message">Message:</label>
                 <br />
@@ -189,8 +192,8 @@ function ContactForm(){
                 <br />
                 {errorFound && <span ref={formRef}><p>At least one of the fields hasn't been filled out properly. Please fill out the field and resubmit.</p></span>}
                 <br />
-                <input type="submit" value="Send" />
+                <input type="submit" className="actualButton" value="Send" />
                 </form>
               </>
-  return (<>{ formUnfilled ? form : <>{ errorFound ? <p>Looks like an error occured when you tried to submit! Click the button below to try again.</p> : <p>Form sent! Now you can wait for a response...</p>}<button className="actualButton" onClick={resetForm}><p>Send another</p></button></>}</>)
+  return (<>{ formUnfilled ? form : <>{ errorFound ? <p>Looks like an error occured when you tried to submit! Click the button below to try again.</p> : <p>Form sent! Now you can wait for a response...</p>}<button className="actualButton" onClick={resetForm}>Send another</button></>}</>)
 }

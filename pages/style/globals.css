@@ -83,7 +83,7 @@ body{
 #body ::selection{
     background:#6dbd16;
 }
-:focus{
+:focus:not(:active){
     outline: 2px solid #6dbd16;
     border: none;
     box-shadow: none;
@@ -100,7 +100,7 @@ button {
     display: inline-flex;
     align-items: baseline;
 }
-button:focus {
+button:focus:not(:active) {
     outline: none;
 }
 
@@ -171,17 +171,17 @@ input {
     padding: 2px;
     cursor: var(--cursor);
 }
-input[type="submit"], .actualButton{
+.actualButton{
     cursor: var(--hoverCursor);
-    outline: 2px solid #306230;
-    margin: 2px;
+    outline: 4px solid #306230;
+    color: #306230;
+    padding: 4px;
+    margin: 4px;
     font-family: DD;
+    font-size: 32px;
 }
-input[type="submit"]:hover, input[type="submit"]:focus, .actualButton:hover, .actualButton:focus{
+.actualButton:hover, .actualButton:hover:active, .actualButton:focus:not(:active){
     outline-color: #6dbd16;
-    color: #6dbd16;
-}
-.actualButton:hover p{
     color: #6dbd16;
 }
 textarea {
@@ -249,10 +249,10 @@ iframe{position: sticky}
 .bottombar a:hover img[src="/images/ui/icons/bottombar/chat.png"]{
     content: url("/images/ui/icons/bottombar/hover/chat.png");
 }
-.bottombar a:focus img[src="/images/ui/icons/bottombar/chat.png"]{
+.bottombar a:focus:not(:active) img[src="/images/ui/icons/bottombar/chat.png"]{
     content: url("/images/ui/icons/bottombar/hover/chat.png");
 }
-.bottombar a:focus{
+.bottombar a:focus:not(:active){
     outline: none;
 }
 
@@ -264,7 +264,7 @@ iframe{position: sticky}
 #notifButton:hover img{
     content: url("/images/ui/icons/bottombar/hover/notif.png");
 }
-#notifButton:focus img{
+#notifButton:focus:not(:active) img{
     content: url("/images/ui/icons/bottombar/hover/notif.png");
 }
 [src="/images/ui/icons/bottombar/notifNew.png"]#notifButton:hover{
@@ -321,7 +321,7 @@ iframe{position: sticky}
     width: 64px;
     height: 64px;
 }
-.icons img:hover{
+.icons img:hover, .icons img:hover:active{
     filter:
     drop-shadow(2px 0px 0 #6dbd16)
     drop-shadow(-2px 0px 0 #6dbd16)
@@ -334,7 +334,7 @@ iframe{position: sticky}
     width: 64px;
     height: 64px;
 }
-.icons button:focus img{
+.icons button:focus:not(:active) img{
     filter:
     drop-shadow(2px 0px 0 #6dbd16)
     drop-shadow(-2px 0px 0 #6dbd16)
@@ -397,13 +397,13 @@ iframe{position: sticky}
     image-rendering: pixelated;
     cursor: var(--hoverCursor);
 }
-.xButton:focus img{
+.xButton:focus:not(:active) img{
     content: url("/images/ui/main/hover/x.png");
 }
 .xButton:hover img{
     content: url("/images/ui/main/hover/x.png");
 }
-.backButton:focus img{
+.backButton:focus:not(:active) img{
     content: url("/images/ui/main/hover/back.png");
 }
 .backButton:hover img{

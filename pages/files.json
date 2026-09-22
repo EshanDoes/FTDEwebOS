@@ -60,7 +60,7 @@
         {
           "name": "Deltarune",
           "type": "text",
-          "content": "Deltarune was originally supposed to release the paid version with chapters 3, 4, and 5, but had to be scaled down to just chapters 3 and 4.<br>The original concept for Deltarune came from a fever dream Toby Fox had in 2011 about the ending of a non-existant video game. After that, he wanted to make this video game. This means it's been about 15 years since the origin of Deltarune.<br>A lot of Spamton's dialogue almost seemed to be referencing a commercial with a guy named Mike who was advertising Big Shot Soda, airing in 1997. Even now, there's so much names being called out from the very existance of the commercial that I doubt it's a coincidence, even if it's something small like an Easter Egg.<br>In the Spamton NEO fight, there was a glitch allowing you to spam charged shots without having to charge them. In a later update, instead of the glitch being patched out, using it instead made Spamton angry and caused the fight to be harder.<br>Every single voice line in Deltarune is done by Toby Fox.<br>Multiple songs like The Chase have a melody very similar to another song that was made by Toby Fox called Nightmare Knight, uploaded in early 2016 for Cucumber Quest. Nightmare Knight also parallels the song Black Knife, which data shows that composition for Black Knife was done in 2018.<br>Roulxs Kaard was originally going to have his own voice sound, however it was cut out for being too distracting. However, Tenna has a similar voice sound that's arguably more distracting. We want the Roulxs Kaard voice. Give it to us."
+          "content": "Deltarune was originally supposed to release the paid version with chapters 3, 4, and 5, but had to be scaled down to just chapters 3 and 4.<br>The original concept for Deltarune came from a fever dream Toby Fox had in 2011 about the ending of a non-existant video game. After that, he wanted to make this video game. This means it's been about 15 years since the origin of Deltarune.<br>A lot of Spamton's dialogue almost seemed to be referencing a commercial with a guy named Mike who was advertising Big Shot Soda, airing in 1997. Even now, there's so much names being called out from the very existance of the commercial that I doubt it's a coincidence, even if it's something small like an Easter Egg.<br>In the Spamton NEO fight, there was a glitch allowing you to spam charged shots without having to charge them. In a later update, instead of the glitch being patched out, using it instead made Spamton angry and caused the fight to be harder.<br>Every single voice line in Deltarune is done by Toby Fox.<br>Multiple songs like The Chase have a melody very similar to another song that was made by Toby Fox called Nightmare Knight, uploaded in early 2016 as a fanmade song for Cucumber Quest. Nightmare Knight also parallels the song Black Knife, of which the metadata shows that the composition for Black Knife was done in 2018.<br>Roulxs Kaard was originally going to have his own voice sound, however it was cut out for being too distracting. However, Tenna has a similar voice sound that's arguably more distracting. We want the Roulxs Kaard voice. Give it to us."
         },
         {
           "name": "Splatoon",
@@ -138,7 +138,7 @@
             {
               "name": "notes",
               "type": "text",
-              "content": "A ghost that seems to be haunting Shifty's house in limbo. She's made friends with him, however she's unable to do much in her state. She hasn't appeared in the collapse either.<br><br>- A lot more powerful than the average ghost<br>- Seems to have a crush on a certain someone<br>- I keep forgetting what her deal is, seriously why is she such a forgettable person to me<br><br>She's already reached the tail end of her fate, now stuck in her current form. Although, if the one in charge decides otherwise, we could continue her fate from where it's left off."
+              "content": "A ghost that seems to be haunting Shifty's house in limbo. She's made friends with him, however she's unable to do much in her state. She hasn't appeared in the collapse either.<br><br>- A lot more powerful than the average ghost<br>- Seems to have a crush on a certain someone<br>- I keep forgetting what her deal is, seriously why is she such a forgettable person to me<br><br>She's already reached the tail end of her fate, now stuck in her current form. Although, we may decide to continue her fate from where it's left off, but at the moment that's not something we're planning to do and not a priority."
             }
           ]
         },
@@ -160,7 +160,7 @@
             {
               "name": "notes",
               "type": "text",
-              "content": "An alien ghost thing (apparently the species is called Böotlicker, I think) who's possessed a dead body. She seems to have been extremely lonely before the collapse, but has now managed to find friends and allies. Very important distinction between the two.<br><br>- Seems to be part of Syntrex's party<br>- Has some decent level of strength, nothing boss-worthy but very capable in a fight<br>- Doesn't really seem to be able to use her own strength that well (does she even know how strong she can be)<br><br>Their fate seems to be in the right direction, however based off the fact they seem to be one of Syntrex's most loyal servants, it would be best to keep an eye on them."
+              "content": "An alien ghost thing (apparently the species is called Böotlicker, I think) who's possessed a dead body. She seems to have been extremely lonely before the collapse, but has now managed to find friends and allies. Very important distinction between the two.<br><br>- Seems to be part of Syntrex's party<br>- Has some decent level of strength even though she doesn't know that, nothing boss-worthy but very capable in a fight<br>- Can do surprisingly well in court (at least better than some of us)<br><br>Their fate seems to be in the right direction, however based off the fact they seem to be one of Syntrex's most loyal servants, it would be best to keep an eye on them."
             }
           ]
         },
@@ -261,6 +261,22 @@
                   "name": "Message 7",
                   "type": "text",
                   "content": "UPDATE, Warren’s™ have expanded from the nearest stars to a few universes over! Perhaps they’ll eventually expand to where Ravenpaw is trapped… I’ll have to get in contact with Warren’s™ to find out if they do. I’ll bring a weapon, in case I have to “persuade” the owner.<br><br>Maniacally scheming, The Ravenpaw Fan"
+                },{
+                  "name": "Message 8",
+                  "type": "text",
+                  "content": "I’ve returned from Utah. Big news. THEY HAVE INFORMATION ON RAVENPAW! Apparently, a Warren’s™ employee had seen one of the billions of missing posters I put up across the universe. They had been sent to Kirby’s house to deliver his order and had seen a cat matching the beautiful drawing of Ravenpaw I drew on the poster through one of the little windows looking into the basement. Isn’t that great!?<br>…<br>Why was he in Kirby’s basement…?<br><br>Somewhat Disturbed,<br>The Ravenpaw Fan"
+                },{
+                  "name": "Message 9",
+                  "type": "text",
+                  "content": "I've started experimenting. I think if I use the notes of the multiverse by Mystery Man, I can create something that might allow me to travel to other universes. I might have to disprove a few things, but I think I can make it work...<br><br>Busily working, The Ravenpaw Fan"
+                },{
+                  "name": "Message 10",
+                  "type": "text",
+                  "content": "*Ahem* So, uh... The first prototype engine blew up in my face. Thankfully I was wearing a welding mask. Based on the blast of that engine, if it were at a size that I would need to travel to other universes, it could tear a part of space open. Although, perhaps I could go through the tear to get to other worlds... Am I willing to destroy part of the universe just to find a single cat?<br>...<br>Of course I am.<br><br>Unsure how to sign off,<br>The Ravenpaw Fan"
+                },{
+                  "name": "Message 11",
+                  "type": "text",
+                  "content": "IT WORKED! ...sort of. The good news is, it didn't blow up! the bad news is, I lost control of The Engine (It's capitalized because that's what I've officially named it) and I have no idea where I am. Thankfully, Warren's™ have already expanded to this universe, so I'm using the free wi-fi to send this. I think I'll explore around this place for a while before attempting interuniversal travel again. After all, who knows what might happen if done to often.<br><br>Off to explore,<br>The Ravenpaw Fan"
                 }
               ]
             }
@@ -433,7 +449,7 @@
             {
               "name": "1st",
               "type": "html",
-              "content": "<p>So, I found out that Omega and Omex are the same person, so I gotta update the character logs. Great way to start the month!<br>Outside of that, I've been working on fixing bugs in that admin panel. I keep seeing spam mail from that one guy asking about Ravenpaw. It's gotten to the point where he's gonna start trying to threaten Warren's to help him find Ravenpaw. Like, do you even know how deadly their meals are? Can you imagine how much more deadly it would be to go against them? Have you ever thought about how Warren's hasn't been destroyed by the government? You think they haven't tried??? I had to tell him Ravenpaw is in Kirby's basement, and even then, he's gonna leave there in like five minutes!<br>... Wait, telling him Ravenpaw's in Kirby's basement is probably gonna make things worse.<br><br>- █████</p>"
+              "content": "<p>So, I found out that Omega and Omex are the same person, so I gotta update the character logs. Great way to start the month!<br>Outside of that, I've been working on fixing bugs in that admin panel. I keep seeing spam mail from that one guy asking about Ravenpaw. It's gotten to the point where he's gonna start trying to threaten Warren's to help him find Ravenpaw. Like, do you even know how deadly their meals are? Can you imagine how much more deadly it would be to go against them? Have you ever thought about how Warren's hasn't been destroyed by the government? You think they haven't tried??? I had to tell him Ravenpaw is in Kirby's basement, and even then, he's gonna leave there in like five minutes!<br>... Wait, telling him Ravenpaw's in Kirby's basement is probably gonna make things worse.<br><br>- █████<br>P.S. Happy pride month!</p>"
             }
           ]
         },
@@ -445,6 +461,10 @@
               "name": "21st",
               "type": "html",
               "content": "<p>They're reaching the shrine.<br><br>Syntrex, Entropy, and Mystery Man seem to be on their way to the shrine of fate. It seems to be because they want answers as to what's going on. It's likely that, by now, Syntrex knows that something is going on with fate, and probably wants to stop it.<br>Meanwhile, however, a robot named Jett and two people from the Abyssal Plane are also approaching the location of the shrine. They've settled at a nearby city for now, but it won't be long until they notice it. We'll have to prepare quickly, and make sure the puppet is ready for their arrival.<br><br>- █████</p>"
+            },{
+              "name": "22nd",
+              "type": "html",
+              "content": "<p>I've realized I should probably explain the big gap. In short, I've gotten busy during the summer. You know, gotta make sure fate goes smoothly, and all that. Then I remembered that the one guy who keeps asking about Ravenpaw is still looking for him, so that made me remember this website exists, all while those guys from earlier are going to the shrine.<br>Speaking of that though, those people I mentioned earlier are already in front of it. Syntrex, Entropy, Jett, Lacera, and even a few others from Splashdown City, with Mystery Man coming with them. This is a lot of people to handle at once, so we may have to make sure we seal the exit once enough people come in, and somehow manipulate them so that only the people who would or are already going against their fate come in, while everyone else stays out. We also probably need to make sure that Syntrex specifically can't bypass the seal, whether to let people in or out. Out best course of action would be to block any potential ways to make a portal inside the shrine, which should be very simple already.<br><br>- █████</p>"
             }
           ]
         }
