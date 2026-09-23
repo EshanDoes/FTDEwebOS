@@ -14,7 +14,7 @@ export function Time(){
     }, [])
     return (
         <p
-        style={{ marginRight: 16, verticalAlign: "center", position: "absolute", left: 0 }}
+        style={{ marginRight: 16, verticalAlign: "center", position: "absolute", left: 2 }}
         id="time"
         className=""
         >

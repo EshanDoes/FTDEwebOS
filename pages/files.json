@@ -60,7 +60,7 @@
         {
           "name": "Deltarune",
           "type": "text",
-          "content": "Deltarune was originally supposed to release the paid version with chapters 3, 4, and 5, but had to be scaled down to just chapters 3 and 4.<br>The original concept for Deltarune came from a fever dream Toby Fox had in 2011 about the ending of a non-existant video game. After that, he wanted to make this video game. This means it's been about 15 years since the origin of Deltarune.<br>A lot of Spamton's dialogue almost seemed to be referencing a commercial with a guy named Mike who was advertising Big Shot Soda, airing in 1997. Even now, there's so much names being called out from the very existance of the commercial that I doubt it's a coincidence, even if it's something small like an Easter Egg.<br>In the Spamton NEO fight, there was a glitch allowing you to spam charged shots without having to charge them. In a later update, instead of the glitch being patched out, using it instead made Spamton angry and caused the fight to be harder.<br>Every single voice line in Deltarune is done by Toby Fox.<br>Multiple songs like The Chase have a melody very similar to another song that was made by Toby Fox called Nightmare Knight, uploaded in early 2016 for Cucumber Quest. Nightmare Knight also parallels the song Black Knife, which data shows that composition for Black Knife was done in 2018.<br>Roulxs Kaard was originally going to have his own voice sound, however it was cut out for being too distracting. However, Tenna has a similar voice sound that's arguably more distracting. We want the Roulxs Kaard voice. Give it to us."
+          "content": "Deltarune was originally supposed to release the paid version with chapters 3, 4, and 5, but had to be scaled down to just chapters 3 and 4.<br>The original concept for Deltarune came from a fever dream Toby Fox had in 2011 about the ending of a non-existant video game. After that, he wanted to make this video game. This means it's been about 15 years since the origin of Deltarune.<br>A lot of Spamton's dialogue almost seemed to be referencing a commercial with a guy named Mike who was advertising Big Shot Soda, airing in 1997. Even now, there's so much names being called out from the very existance of the commercial that I doubt it's a coincidence, even if it's something small like an Easter Egg.<br>In the Spamton NEO fight, there was a glitch allowing you to spam charged shots without having to charge them. In a later update, instead of the glitch being patched out, using it instead made Spamton angry and caused the fight to be harder.<br>Every single voice line in Deltarune is done by Toby Fox.<br>Multiple songs like The Chase have a melody very similar to another song that was made by Toby Fox called Nightmare Knight, uploaded in early 2016 as a fanmade song for Cucumber Quest. Nightmare Knight also parallels the song Black Knife, of which the metadata shows that the composition for Black Knife was done in 2018.<br>Roulxs Kaard was originally going to have his own voice sound, however it was cut out for being too distracting. However, Tenna has a similar voice sound that's arguably more distracting. We want the Roulxs Kaard voice. Give it to us."
         },
         {
           "name": "Splatoon",
@@ -138,7 +138,7 @@
             {
               "name": "notes",
               "type": "text",
-              "content": "A ghost that seems to be haunting Shifty's house in limbo. She's made friends with him, however she's unable to do much in her state. She hasn't appeared in the collapse either.<br><br>- A lot more powerful than the average ghost<br>- Seems to have a crush on a certain someone<br>- I keep forgetting what her deal is, seriously why is she such a forgettable person to me<br><br>She's already reached the tail end of her fate, now stuck in her current form. Although, if the one in charge decides otherwise, we could continue her fate from where it's left off."
+              "content": "A ghost that seems to be haunting Shifty's house in limbo. She's made friends with him, however she's unable to do much in her state. She hasn't appeared in the collapse either.<br><br>- A lot more powerful than the average ghost<br>- Seems to have a crush on a certain someone<br>- I keep forgetting what her deal is, seriously why is she such a forgettable person to me<br><br>She's already reached the tail end of her fate, now stuck in her current form. Although, we may decide to continue her fate from where it's left off, but at the moment that's not something we're planning to do and not a priority."
             }
           ]
         },
@@ -149,23 +149,18 @@
             {
               "name": "syntrexNotes",
               "type": "text",
-              "content": "A being capable of manipulating the very code of worlds themselves. Despite the main universe of the clustural collapse no longer being made of code, Syntrex still seems to be able to use a lot of his abilities in this new environment.<br><br>- Has already gained multiple servants which seem very loyal to his side<br>- Capable of doing a lot of damage if he ever wanted to<br>- Has some kind of goal it seems, although said goal is unknown at the moment<br><br>He seems to have been evil at some point, although he has defied his destined path and seems to want to do something else. Some negotiation could be used to bring him back on the right direction to his fate."
+              "content": "A being capable of manipulating the very code of worlds themselves. Despite the main universe of the clustural collapse not being made of code, Syntrex still seems to be able to use a lot of his abilities in this new environment, likely because a piece of the world he came from is here too.<br><br>- Has already gained multiple servants which seem very loyal to his side<br>- Capable of doing a lot of damage if he ever wanted to<br>- Has some kind of goal it seems, although said goal is unknown at the moment<br><br>He seems to have been evil at some point, although he has defied his destined path and want to do something else. I've come to the conclusion that he wants to defy fate. It would be best to send the puppet to give him a warning once he gets to the shrine. We'll make proper accomodations if he doesn't listen."
             }
           ]
         },
         {
-          "name": "omega&omex",
+          "name": "omex",
           "type": "folder",
           "content": [
             {
-              "name": "omegaNotes",
+              "name": "notes",
               "type": "text",
-              "content": "An alien ghost thing that seems to have been very, very, very lonely before the collapse. Sucks to suck.<br><br>- Seems to partner up and split off from others frequently<br>- Very emotional in multiple circumstances<br>- Has some decent level of strength, nothing boss-worthy but very capable in a fight<br><br>They seem to have regained a false hope they lost before the collapse. That hope must be kept alive while still not being granted, which is a delicate balance near impossible to achieve. However, it must be done."
-            },
-            {
-              "name": "omexNotes",
-              "type": "text",
-              "content": "A variation of Omega that seems to have gained a human vessel. I assume this is an alternate universe form of Omega, although there's a lack of data from between the last time I saw Omega and the first time I saw Omex, so it's highly probable that Omega happened to possess a random body.<br><br>- Seems to be part of Syntrex's party<br>- Slightly stronger than Omega in some ways, weaker in others<br>- Probably has some level of immortality, but definitely not invincible<br><br>Their fate seems to be in the right direction, however based off the fact they seem to be one of Syntrex's most loyal servants, it would be best to keep an eye on them."
+              "content": "An alien ghost thing (apparently the species is called Böotlicker, I think) who's possessed a dead body. She seems to have been extremely lonely before the collapse, but has now managed to find friends and allies. Very important distinction between the two.<br><br>- Seems to be part of Syntrex's party<br>- Has some decent level of strength even though she doesn't know that, nothing boss-worthy but very capable in a fight<br>- Can do surprisingly well in court (at least better than some of us)<br><br>Their fate seems to be in the right direction, however based off the fact they seem to be one of Syntrex's most loyal servants, it would be best to keep an eye on them."
             }
           ]
         },
@@ -187,12 +182,12 @@
             {
               "name": "iroNotes",
               "type": "text",
-              "content": "A Traveler seemingly the \"Ninjago\" series but not exactly from the primary Ninjago universe, who's also ended up in the universe from the collapse. For some reason however, she doesn't seem to have realised it yet.<br><br>- Seems to have the ability of changing the colours of whatever she can touch.<br>- Quick to adapt to this new situation<br><br>No need to do anything about her, fate seems to be leading her right."
+              "content": "A traveler seemingly from the \"Ninjago\" series but not exactly from the primary Ninjago universe, who's also ended up in the universe from the collapse. For some reason however, she doesn't seem to have realised it yet.<br><br>- Seems to have the ability of changing the colours of whatever she can touch.<br>- Quick to adapt to this new situation<br><br>No need to do anything about her, fate seems to be leading her right."
             },
             {
               "name": "graineNotes",
               "type": "text",
-              "content": "An inkling-octoling hybrid... thing from the \"Splatoon\" series, which like all the other ones here, doesn't seem to be from the primary Splatoon universe. She hasn't been seen much, but we can work with the limited data we have.<br><br>- Very sensitive to the light of day<br>- Also sensitive to extreme noises<br>- Seriously, is this one of the only things I can make bullet points about???<br><br>Due to the limited data we have, we can't figure out if she has a concrete fate. Further investigation is required before any conclusions can be made."
+              "content": "An inkling-octoling hybrid... thing from the \"Splatoon\" series, which like all the other ones here, doesn't seem to be from the primary Splatoon universe. She hasn't been seen much, but we can work with the limited data we have.<br><br>- Very sensitive to the light of day<br>- Also sensitive to extreme noises<br>- Seriously, is her sensitivity the only things I can make bullet points about???<br><br>Due to the limited data we have, we can't figure out if she has a concrete fate. Further investigation is required before any conclusions can be made."
             },
             {
               "name": "skyeStanciaNotes",
@@ -218,7 +213,7 @@
             {
               "name": "notes",
               "type": "text",
-              "content": "A monster which seems to be from \"Undertale,\" but doesn't come from the Undertale universe itself. There seems to be many different forms of him throughout alternate universes.<br><br>- Seems to be very in tune with magic<br>- Already died once or twice after entering the collapse, but managed to recover<br>- Followed Syntrex, may possibly be part of his team?<br><br>Through the limited data gathered, he seems to be on the same direction that leads to his fate. However, more data is needed before anything can be concluded."
+              "content": "A monster which seems to be from \"Undertale,\" but more specifically, from an alternate universe from it. There seems to be many different forms of him throughout another group alternate universes, most of which have got caught in the collapse.<br><br>- Seems to be very in tune with magic<br>- Already died once or twice after entering the collapse, but managed to recover<br>- Following Syntrex, may possibly be part of his team?<br><br>He's going with Syntrex towards the shrine, but still seems to be on the right path to his fate from the limited data we have. We'll have to make sure that the two are separated if Entropy tries to go inside."
             }
           ]
         },
@@ -230,6 +225,60 @@
               "name": "notes",
               "type": "text",
               "content": "A loner from the \"Warrior Cats\" series who's gotten stranded in a universe that's not his, separated from what he's used to. Seems like he found a group of friends he's comfortable with, but whether that affects his longing for home remains to be seen.<br><br>- Easily stressed out in unfamiliar situations, but looks to be able to easily adapt and improvise.<br>- Wants to find Barley, his mate from his universe. Location unknown.<br><br>Data about his destiny is coming back as inconclusive. Further observation may be necessary."
+            },{
+              "name": "spamFolder",
+              "type": "folder",
+              "content": [
+                {
+                  "name": "README (real this time)",
+                  "type": "text",
+                  "content": "This folder is just full of stuff from this one guy who keeps contacting me asking stuff about Ravenpaw. Seriously, he even put signs in front of my base in the Minecraft server asking about Ravenpaw. Like, do you think I know what's going on with Ravenpaw? I barely even know he exists! You gotta ask the other guy about him, I'm sure he knows a lot more than I do."
+                },{
+                  "name": "Message 1",
+                  "type": "text",
+                  "content": "LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME LET RAVENPAW GO HOME<br><br>With \"Love\", The Ravenpaw Fan"
+                },{
+                  "name": "Message 2",
+                  "type": "text",
+                  "content": "Genuinely why? This time it's not a repetitive message, but I genuinely wonder what Ravenpaw did for this to happen to him. He just wants to see his mate. And Barley wants to see him too, I'm sure. You're not just hurting Ravenpaw with this, but the entire forest. Barley, Firestar, Graystripe... they all knew him and loved him. And now he's been stolen away. Now he can't see them and they can't see him. I hope you realize this and decide to make it right.<br><br>Sincerely, The Ravenpaw Fan"
+                },{
+                  "name": "Message 3",
+                  "type": "text",
+                  "content": "So uh, I was going through the system as usual when I noticed that Ravenpaw was STILL stranded? I assume this was a mistake because I'm sure you know that if he's left there then I'LL SKIN YOU ALIVE.<br> DON'T TEST ME I'LL DO IT!<br>Anyway, I was just making sure that you're taking care of that.<br><br>Sincerely, The Ravenpaw Fan<br>P.S. I'M ALWAYS WATCHING"
+                },{
+                  "name": "Message 4",
+                  "type": "text",
+                  "content": "Any updates on Ravenpaw? Any at all? I miss him. So does Barley, I checked this time. He's heartbroken. Give us something! Send out a rescue party! Anything! Barley asked me to tell you that he's become very lonely. You wouldn't let the poor cat suffer...<br>...<br>Would you?<br><br>Coldest regards, The Ravenpaw Fan"
+                },{
+                  "name": "Message 5",
+                  "type": "text",
+                  "content": "My heart aches<br>Please, just...<br>Bring him home.<br><br>Actively grieving, The Ravenpaw Fan"
+                },{
+                  "name": "Message 6",
+                  "type": "text",
+                  "content": "GOD, I’M SO DEPRIVED OF NEWS. No word of Ravenpaw AT ALL. And on top of that, there’s not even any recent news to see as well? I mean, how can the biggest news still be that they put a Warren’s™ in space? Since then, they’ve already put at least one on every celestial body in the solar system! Heck, they’ve even expanded to the Alpha Centauri system! I can feel my brain degrading…<br><br>Bored out of their mind, The Ravenpaw Fan"
+                },{
+                  "name": "Message 7",
+                  "type": "text",
+                  "content": "UPDATE, Warren’s™ have expanded from the nearest stars to a few universes over! Perhaps they’ll eventually expand to where Ravenpaw is trapped… I’ll have to get in contact with Warren’s™ to find out if they do. I’ll bring a weapon, in case I have to “persuade” the owner.<br><br>Maniacally scheming, The Ravenpaw Fan"
+                },{
+                  "name": "Message 8",
+                  "type": "text",
+                  "content": "I’ve returned from Utah. Big news. THEY HAVE INFORMATION ON RAVENPAW! Apparently, a Warren’s™ employee had seen one of the billions of missing posters I put up across the universe. They had been sent to Kirby’s house to deliver his order and had seen a cat matching the beautiful drawing of Ravenpaw I drew on the poster through one of the little windows looking into the basement. Isn’t that great!?<br>…<br>Why was he in Kirby’s basement…?<br><br>Somewhat Disturbed,<br>The Ravenpaw Fan"
+                },{
+                  "name": "Message 9",
+                  "type": "text",
+                  "content": "I've started experimenting. I think if I use the notes of the multiverse by Mystery Man, I can create something that might allow me to travel to other universes. I might have to disprove a few things, but I think I can make it work...<br><br>Busily working, The Ravenpaw Fan"
+                },{
+                  "name": "Message 10",
+                  "type": "text",
+                  "content": "*Ahem* So, uh... The first prototype engine blew up in my face. Thankfully I was wearing a welding mask. Based on the blast of that engine, if it were at a size that I would need to travel to other universes, it could tear a part of space open. Although, perhaps I could go through the tear to get to other worlds... Am I willing to destroy part of the universe just to find a single cat?<br>...<br>Of course I am.<br><br>Unsure how to sign off,<br>The Ravenpaw Fan"
+                },{
+                  "name": "Message 11",
+                  "type": "text",
+                  "content": "IT WORKED! ...sort of. The good news is, it didn't blow up! the bad news is, I lost control of The Engine (It's capitalized because that's what I've officially named it) and I have no idea where I am. Thankfully, Warren's™ have already expanded to this universe, so I'm using the free wi-fi to send this. I think I'll explore around this place for a while before attempting interuniversal travel again. After all, who knows what might happen if done to often.<br><br>Off to explore,<br>The Ravenpaw Fan"
+                }
+              ]
             }
           ]
         }
@@ -374,6 +423,48 @@
               "name": "5th",
               "type": "html",
               "content": "<p>I'm running out of things to say, have some bird questions!<br><br>Can birds fly?<br>Can birds cry?<br>Can birds lie?<br>Can birds dry?<br>Can birds die?<br>Can birds buy?<br>Can birds sigh?<br>Can birds tie?<br>Can birds pry?<br>Can birds fry?<br>Can birds try?<br>Can birds pie?<br><br>- █████</p>"
+            },{
+              "name": "6th",
+              "type": "html",
+              "content": "<p>This website has gotten too immersive. I keep reaching for the Alt + F4 shortcut to close a window, but then I have to stop myself and remember that this is a website and not my actual operating system.<br>I also really need things to add to the site. As I rambled about a few days ago, I have a bunch of ideas, but I don't feel like implementing them. It's like I've hit a block in motivation, despite really wanting to implement these features. Is this the coding version of artist block? Code block?<br>... Nah, code blocks would be from Scratch. I feel like there'd be another name for this kinda thing.<br><br>- █████</p>"
+            },{
+              "name": "12th",
+              "type": "html",
+              "content": "<p>I'm bored.<br><br>- █████</p>"
+            },{
+              "name": "14th",
+              "type": "html",
+              "content": "<p>Looking at the character files... what was I thinking when I was writing them? They feel off in multiple different ways... I gotta try and fix that.<br><br>- █████</p>"
+            },{
+              "name": "25th",
+              "type": "html",
+              "content": "<p>I got busy working on an admin panel to see the contacts.<br><br>- █████</p>"
+            }
+          ]
+        },
+        {
+          "name": "2026June",
+          "type": "folder",
+          "content": [
+            {
+              "name": "1st",
+              "type": "html",
+              "content": "<p>So, I found out that Omega and Omex are the same person, so I gotta update the character logs. Great way to start the month!<br>Outside of that, I've been working on fixing bugs in that admin panel. I keep seeing spam mail from that one guy asking about Ravenpaw. It's gotten to the point where he's gonna start trying to threaten Warren's to help him find Ravenpaw. Like, do you even know how deadly their meals are? Can you imagine how much more deadly it would be to go against them? Have you ever thought about how Warren's hasn't been destroyed by the government? You think they haven't tried??? I had to tell him Ravenpaw is in Kirby's basement, and even then, he's gonna leave there in like five minutes!<br>... Wait, telling him Ravenpaw's in Kirby's basement is probably gonna make things worse.<br><br>- █████<br>P.S. Happy pride month!</p>"
+            }
+          ]
+        },
+        {
+          "name": "2026September",
+          "type": "folder",
+          "content": [
+            {
+              "name": "21st",
+              "type": "html",
+              "content": "<p>They're reaching the shrine.<br><br>Syntrex, Entropy, and Mystery Man seem to be on their way to the shrine of fate. It seems to be because they want answers as to what's going on. It's likely that, by now, Syntrex knows that something is going on with fate, and probably wants to stop it.<br>Meanwhile, however, a robot named Jett and two people from the Abyssal Plane are also approaching the location of the shrine. They've settled at a nearby city for now, but it won't be long until they notice it. We'll have to prepare quickly, and make sure the puppet is ready for their arrival.<br><br>- █████</p>"
+            },{
+              "name": "22nd",
+              "type": "html",
+              "content": "<p>I've realized I should probably explain the big gap. In short, I've gotten busy during the summer. You know, gotta make sure fate goes smoothly, and all that. Then I remembered that the one guy who keeps asking about Ravenpaw is still looking for him, so that made me remember this website exists, all while those guys from earlier are going to the shrine.<br>Speaking of that though, those people I mentioned earlier are already in front of it. Syntrex, Entropy, Jett, Lacera, and even a few others from Splashdown City, with Mystery Man coming with them. This is a lot of people to handle at once, so we may have to make sure we seal the exit once enough people come in, and somehow manipulate them so that only the people who would or are already going against their fate come in, while everyone else stays out. We could make sure that Ndash enforces who goes in, she's already outside the shrine to keep watch so it would be the most efficient solution. We also probably need to make sure that Syntrex specifically can't bypass the seal, whether to let people in or out. Out best course of action would be to block any potential ways to make a portal inside the shrine, which should be very simple already.<br><br>- █████</p>"
             }
           ]
         }
@@ -395,6 +486,10 @@
           ]
         }
       ]
+    },{
+      "name": "README",
+      "type": "text",
+      "content": "Why are you trying to read a README file here? This isn't a GitHub repository. I don't even have any markdown implementation on this site!"
     }
   ]
 }
