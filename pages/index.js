@@ -2,7 +2,7 @@ import Head from 'next/head';
 import { useRef, useEffect, useState } from 'react';
 import { preload } from 'react-dom';
 
-import { Window, SimpleWindow, FileWindow, WindowDiv, WindowIcon, openWindow, Notification, Cursor } from '../components/interactive.js'
+import { Window, SimpleWindow, FileWindow, WindowDiv, WindowIcon, openWindow, Notification } from '../components/interactive.js'
 import { Time } from '../components/live.js'
 
 export default function Main(){
@@ -74,7 +74,7 @@ export default function Main(){
     <div className="bottombar onTop">
       <Time />
       <span style={{ width: 4, height: "100%", backgroundColor: "#306230" }} />
-      <a href="https://discord.gg/ENChZjqFBx" aria-label="Join the Technical Difficulties Discord server">
+      <a href="https://discord.gg/ENChZjqFBx" target="_blank" rel="noopener noreferrer" aria-label="Join the Technical Difficulties Discord server">
         <img src="/images/ui/icons/bottombar/chat.png" alt="A chat icon under the link to a Discord server." />
       </a>
       {notifs[0]}

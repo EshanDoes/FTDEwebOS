@@ -83,7 +83,7 @@ body{
 #body ::selection{
     background:#6dbd16;
 }
-:focus:not(:active){
+:focus{
     outline: 2px solid #6dbd16;
     border: none;
     box-shadow: none;
@@ -100,7 +100,7 @@ button {
     display: inline-flex;
     align-items: baseline;
 }
-button:focus:not(:active) {
+button:focus {
     outline: none;
 }
 
@@ -180,7 +180,7 @@ input {
     font-family: DD;
     font-size: 32px;
 }
-.actualButton:hover, .actualButton:hover:active, .actualButton:focus:not(:active){
+.actualButton:hover, .actualButton:hover:active, .actualButton:focus-visible{
     outline-color: #6dbd16;
     color: #6dbd16;
 }
@@ -249,10 +249,10 @@ iframe{position: sticky}
 .bottombar a:hover img[src="/images/ui/icons/bottombar/chat.png"]{
     content: url("/images/ui/icons/bottombar/hover/chat.png");
 }
-.bottombar a:focus:not(:active) img[src="/images/ui/icons/bottombar/chat.png"]{
+.bottombar a:focus-visible img[src="/images/ui/icons/bottombar/chat.png"]{
     content: url("/images/ui/icons/bottombar/hover/chat.png");
 }
-.bottombar a:focus:not(:active){
+.bottombar a:focus-visible{
     outline: none;
 }
 
@@ -264,7 +264,7 @@ iframe{position: sticky}
 #notifButton:hover img{
     content: url("/images/ui/icons/bottombar/hover/notif.png");
 }
-#notifButton:focus:not(:active) img{
+#notifButton:focus-visible img{
     content: url("/images/ui/icons/bottombar/hover/notif.png");
 }
 [src="/images/ui/icons/bottombar/notifNew.png"]#notifButton:hover{
@@ -334,7 +334,7 @@ iframe{position: sticky}
     width: 64px;
     height: 64px;
 }
-.icons button:focus:not(:active) img{
+.icons button:focus-visible img{
     filter:
     drop-shadow(2px 0px 0 #6dbd16)
     drop-shadow(-2px 0px 0 #6dbd16)
@@ -397,13 +397,13 @@ iframe{position: sticky}
     image-rendering: pixelated;
     cursor: var(--hoverCursor);
 }
-.xButton:focus:not(:active) img{
+.xButton:focus-visible img{
     content: url("/images/ui/main/hover/x.png");
 }
 .xButton:hover img{
     content: url("/images/ui/main/hover/x.png");
 }
-.backButton:focus:not(:active) img{
+.backButton:focus-visible img{
     content: url("/images/ui/main/hover/back.png");
 }
 .backButton:hover img{

@@ -383,20 +383,3 @@ export function Notification(){
 
   return([<NotifButton />, <NotifDiv />])
 }
-
-export function Cursor(){
-  const cursorRef = useRef(null)
-  useEffect(() => {
-    const mainBody = document.getElementById("body")
-    const cursor = cursorRef.current
-
-    mainBody.addEventListener('pointermove', (e) => {
-      cursor.style.top = `${e.clientY - mainBody.getBoundingClientRect().top}px`
-      cursor.style.left = `${e.clientX - mainBody.getBoundingClientRect().left}px`
-    })
-    mainBody.addEventListener('mouseenter', () => cursor.style.visibility = "visible")
-    mainBody.addEventListener('mouseleave', () => cursor.style.visibility = "hidden")
-  }, [cursorRef])
-
-  return <img src="/images/ui/main/cursor.png" style={{ imageRendering: "pixelated", width: 24, height: 24, position: "absolute", pointerEvents: "none", visibility: "hidden", zIndex: "calc(infinity)" }} ref={cursorRef} />
-}
