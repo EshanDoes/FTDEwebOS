@@ -19,8 +19,8 @@
     --cursor: url("/images/ui/main/cursor.png"), auto;
     --hoverCursor: url("/images/ui/main/cursor-click.png"), pointer;
 
-    --borderWidth: calc((100cqw - var(--bodyWidth)) / 2)
-    --borderHeight: calc((100cqh - var(--bodyHeight)) / 2)
+    --borderWidth: calc((100cqw - var(--bodyWidth)) / 2);
+    --borderHeight: 100cqh;
 }
 @media only screen and (min-height: 75cqw) {
     :root{
@@ -28,6 +28,9 @@
         --bodyHeight: 75cqw;
         --bodyLeft: 0;
         --bodyTop: calc(50cqh - 37.5cqw);
+
+        --borderWidth: 100cqw;
+        --borderHeight: calc((100cqh - var(--bodyHeight)) / 2);
     }
 }
 
@@ -78,6 +81,13 @@ body{
     left: var(--bodyLeft);
     height: var(--bodyHeight);
     width: var(--bodyWidth);
+}
+.border{
+    position: absolute;
+    width: var(--borderWidth);
+    height: var(--borderHeight);
+    background-color: black;
+    z-index: 8;
 }
 
 #body ::selection{
