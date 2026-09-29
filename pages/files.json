@@ -66,6 +66,10 @@
           "name": "Splatoon",
           "type": "text",
           "content": "aHR0cHM6Ly9kaXNjb3JkLmNvbS9jaGFubmVscy8xMjc5NjMxMTA0MzI3OTQ2MzAxLzEyODAzNTE3NzQxNTgzNTY0OTA"
+        },{
+          "name": "Kirby",
+          "type": "text",
+          "content": "During the development of Kirby and the Forgotten Land, Nintendo had suggested to HAL to add more enemies during playtesting, but they didn't want to because they cared about Kirby (and also because they were considering less experienced players).<br>There's a total of six lyrical songs for the opening and ending credits across the different localizations of Kirby: Right Back at Ya! There's also a seventh song in a promotional video for the anime, meaning there's seven lyrical songs associcated with it.<br>ID-F86 is next.<br>In the files of Kirby Star Allies, Morpho Knight is usually either named Bknight or SecretHades.<br>It's confirmed that Meta Knight actually likes sweet food.<br>Before Kirby's Return to Dreamland Deluxe, fans had assumed that Magolor met Susie in Another Dimension. However, the Magolor's Epilogue side mode deconfirms this. Based off the timeline, it wouldn't make sense either, so either way this was a theory that many people had thought was canon.<br>We all know Marx has no hands, so he uses his hat to grab things instead. However, his design in the Kirby of the Stars! Moretsu Pupupu Hour! manga series gives him hands. I personally have never seen said design, and I don't think I want to. It would not look right."
         }
       ]
     },
@@ -171,7 +175,7 @@
             {
               "name": "notes",
               "type": "text",
-              "content": "Someone who is \"from unknown origin\" that happens to be just as editable as Shifty. Unlike him though, she's ended up in the collapse as well.<br><br>- Seems to have already completed a quest she was on<br>- Was seen with Syntrex for a bit, could possibly be part of his team but right now it's umknown from this perspective<br>- Can be either normal or the REALLY wrong definition of balanced<br><br>It's too early for her to have a fate yet. She will have one of her own very soon, at the moment her behavious should be watched in order to help determine her future."
+              "content": "Someone who is \"from unknown origin\" that happens to be just as editable as Shifty. Unlike him though, she's ended up in the collapse as well.<br><br>- Seems to have already completed a quest she was on<br>- Was seen with Syntrex for a bit, could possibly be part of his team but right now it's umknown from this perspective<br>- Can be either normal or the REALLY wrong definition of balanced<br><br>It's too early for her to have a fate yet. She will have one of her own very soon, at the moment her behaviours should be watched in order to help determine her future."
             }
           ]
         },
@@ -198,6 +202,10 @@
               "name": "skyeToiletkoopaNotes",
               "type": "text",
               "content": "A human girl with what seems to be a Pixie companion. It seems like she's already met a few others, but she's still oblivious to many rules of this cluster and the universes in it.<br><br>- Quick to adapt to a new world<br>- Seems to be very talkative<br><br>She already seems to be going along her destined fate, looking further at her more would probably be unneeded, especially considering there may be other Graces we need to worry about."
+            },{
+              "name": "darkKoopaNotes",
+              "type": "text",
+              "content": "Some dark clone of... somebody? I myself don't know much about her, usually Ndash writes the Grace notes but I'm writing this one and I genuinely don't know anything about her. Might have to ask Ndash for any actual info.<br><br>- Has some abilities to magically control fire knives<br>- I think she's a clone of Toiletkoopa but I genuinely don't know<br><br>I believe Ndash might be able to actually help me with what her fate is as well, because I genuinely don't know."
             },
             {
               "name": "jevilaNotes",
@@ -213,7 +221,7 @@
             {
               "name": "notes",
               "type": "text",
-              "content": "A monster which seems to be from \"Undertale,\" but more specifically, from an alternate universe from it. There seems to be many different forms of him throughout another group alternate universes, most of which have got caught in the collapse.<br><br>- Seems to be very in tune with magic<br>- Already died once or twice after entering the collapse, but managed to recover<br>- Following Syntrex, may possibly be part of his team?<br><br>He's going with Syntrex towards the shrine, but still seems to be on the right path to his fate from the limited data we have. We'll have to make sure that the two are separated if Entropy tries to go inside."
+              "content": "A monster which seems to be from \"Undertale,\" but more specifically, from an alternate universe from it. There seems to be many different forms of him throughout another group alternate universes, most of which were caught in the collapse.<br><br>- Seems to be very in tune with magic<br>- Already died once or twice after entering the collapse, but managed to recover<br>- Following Syntrex, may possibly be part of his team?<br><br>He's going with Syntrex towards the shrine, but still seems to be on the right path to his fate from the limited data we have. We'll have to make sure that the two are separated if Entropy tries to go inside."
             }
           ]
         },
@@ -225,6 +233,14 @@
               "name": "notes",
               "type": "text",
               "content": "A loner from the \"Warrior Cats\" series who's gotten stranded in a universe that's not his, separated from what he's used to. Seems like he found a group of friends he's comfortable with, but whether that affects his longing for home remains to be seen.<br><br>- Easily stressed out in unfamiliar situations, but looks to be able to easily adapt and improvise.<br>- Wants to find Barley, his mate from his universe. Location unknown.<br><br>Data about his destiny is coming back as inconclusive. Further observation may be necessary."
+            },{
+              "name": "wcaNotes",
+              "type": "text",
+              "content": "A weird, comically powerful cartoon version of Ravenpaw, usually reffered to as WCA!Ravenpaw by us. He's, like... what do I even write about this dude? I have no idea what to write about this dude.<br><br>-He has Kingdom Hearts attacks? Why???<br>- Freed Seraphim from being trapped in a statue<br>- Isn't even close to how Ravenpaw actually acts<br><br>Seriously, why is this dude here? I would give him the fate of \"dying three days into getting here\" just because of his sheer existance. I would, but I won't. Not exactly a fate that makes sense. He'll have to be left fateless for now."
+            },{
+              "name": "voidpawNotes",
+              "type": "text",
+              "content": "I don't really need to write anything about Voidpaw at the moment, so I'll leave this to do later."
             },{
               "name": "spamFolder",
               "type": "folder",
@@ -276,9 +292,27 @@
                 },{
                   "name": "Message 11",
                   "type": "text",
+                  "content": "It's been a few months. Kinda funny to think that I was asking for you to rescue him. Look at me now. Taking matters into my own hands. I've finished working on my engine. I hope it’ll work. If not... I’ll probably get thrown into who knows what universe. I guess we'll find out.<br><br>Determined and ready,<br>The Ravenpaw Fan"
+                },{
+                  "name": "Message 12",
+                  "type": "text",
                   "content": "IT WORKED! ...sort of. The good news is, it didn't blow up! the bad news is, I lost control of The Engine (It's capitalized because that's what I've officially named it) and I have no idea where I am. Thankfully, Warren's™ have already expanded to this universe, so I'm using the free wi-fi to send this. I think I'll explore around this place for a while before attempting interuniversal travel again. After all, who knows what might happen if done to often.<br><br>Off to explore,<br>The Ravenpaw Fan"
+                },{
+                  "name": "Message 13",
+                  "type": "text",
+                  "content": "Well... this universe is... strange, to say the least. I don't really want to talk about it, but I'm now ready to leave as soon as possible. I hope I'll be more successful in controlling The Engine. I at least hope I end up in a universe with less caterpillars (Good luck trying to figure that out)...<br><br>Slightly more scared of bugs,<br>The Ravenpaw Fan"
                 }
               ]
+            }
+          ]
+        },{
+          "name": "seraphim",
+          "type": "folder",
+          "content": [
+            {
+              "name": "notes",
+              "type": "text",
+              "content": "An angel that once tried to live with mortals, before being turned into a statue and forced to watch as the village she tried to live in was destroyed. We didn't do that though, it was actually some other guys who ended up dying out when we appeared.<br><br>- Befriended WCA!Ravenpaw, and seems to only be going into the shrine to follow him<br>- Has an ability that can break invincibility, but it doesn't look like she'd use it even in the worst situation<br>- Trauma. I don't need to say more, she's just got trauma.<br><br>She's already met what her fate would be, being sealed into that statue. Until we can make a new fate for her, she will have to be fateless. She doesn't seem to be very capable emotionally to do anything about fate, so I don't think it would be a big deal for now. Still, it'd be good to keep an eye on her after she leaves the shrine."
             }
           ]
         }
@@ -345,12 +379,12 @@
             {
               "name": "2026March21st",
               "type": "html",
-              "content": "<p>Well, uh. When you think about it, if someone outside of the target audience found out about this, how would they understand literally anything? Actually, what even makes this any special from anything else? All I have are files, a notepad, and <span class='fileLink' onclick='openWindow(\"gameWindow\", event)'>vimeo gane</span>. I think I'm gonna add the news or something. Would be a cool idea to have something like that, just so I can keep up with the latest updates. I could get an article in there every week. Might be a decent idea.<br>Wait, what was I talking about again? Oh yeah, context. Gonna need to work on that at some point.<br><br>- █████</p>"
+              "content": "<p>Well, uh. When you think about it, if someone outside of the target audience found out about this, how would they understand literally anything? Actually, what even makes this any special from anything else? All I have are files, a notepad, and <span class='fileLink' onclick='openWindow(\"gameWindow\", event)'>vimeo gane</span>. I think I'm gonna add the news or something. Would be a cool idea to have something like that, just so I can keep up with the latest updates. I could automatically pull an article from whatever source I want every week. Might be a decent idea.<br>Wait, what was I talking about again? Oh yeah, context. Gonna need to work on that at some point.<br><br>- █████</p>"
             },
             {
               "name": "2026March23rd",
               "type": "html",
-              "content": "<p>Okay, when I said I'd add the news, I meant that literally. I decided to add my favourite weekly news source, Mystery Man's Hobbyist News, onto the site, because I've got nothing better to do. Honestly, I do love Mystery Man's Hobbyist News though, mostly because the guy behind it fits with all my biases, and does the proper research as well. It's like his tastes are personalized to be exactly like mine's, it's crazy how alike we are even despite the history we have.<br><br>- █████</p>"
+              "content": "<p>I normally don't edit my notes, but this note was supposed to be how I addessed Mystery Man's Hobbyist News and just a bit ago he cancelled it. He cancelled his news. He cancelled his news, and now I have to actually watch from a distance to get my news. He literally just cancelled his news.<br><br>- █████</p>"
             },
             {
               "name": "2026 March 25th",
@@ -464,7 +498,27 @@
             },{
               "name": "22nd",
               "type": "html",
-              "content": "<p>I've realized I should probably explain the big gap. In short, I've gotten busy during the summer. You know, gotta make sure fate goes smoothly, and all that. Then I remembered that the one guy who keeps asking about Ravenpaw is still looking for him, so that made me remember this website exists, all while those guys from earlier are going to the shrine.<br>Speaking of that though, those people I mentioned earlier are already in front of it. Syntrex, Entropy, Jett, Lacera, and even a few others from Splashdown City, with Mystery Man coming with them. This is a lot of people to handle at once, so we may have to make sure we seal the exit once enough people come in, and somehow manipulate them so that only the people who would or are already going against their fate come in, while everyone else stays out. We could make sure that Ndash enforces who goes in, she's already outside the shrine to keep watch so it would be the most efficient solution. We also probably need to make sure that Syntrex specifically can't bypass the seal, whether to let people in or out. Out best course of action would be to block any potential ways to make a portal inside the shrine, which should be very simple already.<br><br>- █████</p>"
+              "content": "<p>I've realized I should probably explain the big gap in time. In short, I've gotten busy during the summer. You know, gotta make sure fate goes smoothly, and all that. Then I remembered that the one guy who keeps asking about Ravenpaw is still looking for him, so that made me remember this website exists, all while those guys from earlier are going to the shrine.<br>Speaking of that though, those people I mentioned earlier are already in front of it. Syntrex, Entropy, Jett, Lacera, and even a few others from Splashdown City, with Mystery Man coming with them. This is a lot of people to handle at once, so we may have to make sure we seal the exit once enough people come in, and somehow manipulate them so that only the people who would or are already going against their fate come in, while everyone else stays out. We could make sure that Ndash enforces who goes in, she's already outside the shrine to keep watch so it would be the most efficient solution. We also probably need to make sure that Syntrex specifically can't bypass the seal, whether to let people in or out. Out best course of action would be to block any potential ways to make a portal inside the shrine, which should be very simple already.<br><br>- █████</p>"
+            },{
+              "name": "23rd",
+              "type": "html",
+              "content": "<p>They had a fight in front of the shrine.<br>They didn't even go inside, and they had a fight in front of the shrine.<br>Mira had some sort of weird bruise thing, it somehow had some kinda fight, I have no idea what was going on but Lacera kept shoving dirt into her and managed to fix it? Like, at least they know the way in now, but they keep trying to find a source of light to go in. They don't know that it's basically a void in the shrine, light is gonna do nothing.<br>On the bright side, it does give us more time to prepare. Still, though, this is ridiculous. They're in front of the door (it's not actually a door, just an open enterance, but we call it a door) and yet they're not actually going in. In the meantime, I guess I'll just go back to planning.<br><br>- █████</p>"
+            },{
+              "name": "24th",
+              "type": "html",
+              "content": "<p>They're making a hut in front of the shrine? Why??? It's a mysterious shrine, they don't know what's going on with it, for all they know it could have some creature of mass destruction! There isn't though, if there was I wouldn't want them in, but WEREN'T YOU GUYS JUST SUSPICIOUS OF WHAT WAS GOING ON IN THERE??? LACERA LITERALLY CRITICIZED MYSTERY MAN ABOUT THE FACT THAT HE WENT TO THE SHRINE WITHOUT KNOWING WHAT'S INSIDE, AND YET SHE'S ONE OF THE PEOPLE THAT HELPED MAKE THE HUT, JUST MAKE IT SOMEWHERE ELSE I DON'T NEED IT OBSCURING MY BIRD'S EYE VIEW ON TOP OF THE SHRINE. IT'S A REALLY COOL VIEW AND YOU RUINED IT WITH YOUR HUT.<br>It's not actually interfering with anything though (outside of that view), just thought I'd just mention it because I'm still waiting for them to go inside.<br><br>- █████</p>"
+            },{
+              "name": "25th",
+              "type": "html",
+              "content": "<p>Before I go on, I do wanna give my thanks to Ndash for summoning that lightning to absolutely destroy that hut. I appreciate it, now I've got my good view back.<br>Anyways, it looks like a few more people showed up to the shrine, and now I think they are actually gonna go inside after Mystery Man dropped a flower in there and made them realize they don't need a light to see in the shrine. Most of them left by then, though, so it seems to be just Syntrex, an angel named Seraphim, another Grace named DarkKoopa, and some cartoon version of Ravenpaw. (The Ravenpaw Fan is still gonna be trying to get into Kirby's basement to find him.)<br>Oh right, there's another Ravenpaw. Apparently this one goes by cartoon logic and is stupid powerful, like, he has Kingdom Hearts attacks for some reason. It would be really funny if I left him out of the shrine, but to be honest Seraphim might be more deserving to get left out, considering her trauma might not make her deal with the info the puppet would give very well. I'm probably not gonna leave anyone behind, though.<br>Anyways, there is still the shattered mirror from earlier that I've still gotta pick up, but I think it might be cool if they see through it. I'm also gonna be speaking as the puppet to warn the group about fate stuff, what happens if fate is broken, and other stuff, but I gotta be careful what I say in case any of them start talking about it to other people and it spreads to the public. If they don't listen to the warnings, though... I'm probably not gonna fight them, those strings can be cut easily and right now it would take one of us actually going in the shrine to fix it, and that's be very inconvenient. But, I am likely gonna get specimen ID-F86, make some \"negotiation\", and use him as a distraction while we figure out what to actually do based off the short-term aftermath of the party learning about fate. In the meantime though, I've got some new character logs to write.<br><br>- █████</p>"
+            },{
+              "name": "28th",
+              "type": "html",
+              "content": "<p>Well, I guess Syntrex has found this website. Hello to you too, Syntrex! For the record, I think Warren's is better than Pinkbox. Thanks for the grammar corrections, by the way, never expected you to give any.<br>Anyways, I've gotten the specimen ahead of time in the middle of his fight against the pink puffball. Naturally, he's very confused, and likely still on the high of being free, but I'll give him some time to calm down first. Once he does, I'll send in the puppet, and try to negotiate a deal. If he doesn't accept bargians, I may have to use threats, but hopefully it doesn't come to that point.<br>The plan is to have him merge very specific locations into very specific other locations to make it seem like he's trying to conquer as usual. However, the locations, as I said, will be specifically chosen, as to make sure that they merge well together, and we'll try our best to choose locations with very few to no people. After that, some may try to fight him, and we'll tell him to give it his all, but at the end of the day there's already people strong enough to beat him at his best. I'm not entirely sure about whether or not they would free his other half, but we don't need to worry about that. It's not like the little guy will be able to do much.<br><br>- █████</p>"
+            },{
+              "name": "29th",
+              "type": "html",
+              "content": "<p>Syntrex ended up using future sight with his Porygon-Z to see exactly what'll happen. Normally this would be an issue, but it doesn't look like he's gonna stop everyone else from entering the shrine. He mostly seems to be trying to figure out a plan on his own. Does he even know I spotted his Pokemon using future sight? I don't know, he might, not gonna leave that possibility out of the question. He'll know either way because he can see this site, so whether or not he did before doesn't exactly matter. For the most part, though, everything will go as planned. Even if it doesn't, based off Syntrex's reaction, it's likely they don't need to go into the shrine, and we can skip straight to sending ID-F86 out. I'll try and make sure they do get in though, it's good to make sure everyone else gets the warning, and as I said earlier, Syntrex isn't stopping them.<br>Oh yeah, I forgot to mention, a Sylveon somehow appeared in the shrine. Dunno how that happened, might have to consult the others about if someone made a mistake during the collapse that caused them to get in there.<br><br>- █████<br>P.S. They're now sleeping in front of the shrine. Even when they saw the hut get striked by lightning. Does nobody going in the shrine have any survival instincts???</p>"
             }
           ]
         }
@@ -489,7 +543,7 @@
     },{
       "name": "README",
       "type": "text",
-      "content": "Why are you trying to read a README file here? This isn't a GitHub repository. I don't even have any markdown implementation on this site!"
+      "content": "Why are you trying to read a README file here? This isn't a GitHub repository. I don't even have any markdown implementation on this site!<br><br>P.S. I see you, Syntrex, I know this is tecnically in a GitHub repository, but it's meant to be read on the website."
     }
   ]
 }

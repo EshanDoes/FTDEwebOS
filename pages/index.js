@@ -16,6 +16,8 @@ export default function Main(){
   </Head>
   <span id="bgOverlay" />
   <img src="/images/ui/main/monitor.svg" id="monitorOverlay" />
+  <div className="border" style={{ left: 0, top: 0 }} />
+  <div className="border" style={{ right: 0, bottom: 0 }} />
   <div ref={mainBody} id="body">
     <div className="icons">
       <WindowIcon window="folderWindow" name="files" />
