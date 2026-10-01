@@ -527,7 +527,7 @@
           ]
         },{
           "name": "2026October",
-          "type": "html",
+          "type": "folder",
           "content": [
             {
               "name": "1st",
