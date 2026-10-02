@@ -10,7 +10,7 @@ I can't say much about this as to not spoil much, so you'll have to explore ever
 ## FEATURES
 
 
-- A fully functional file system! (Will not add the ability to save stuff because it doesn't fit the vibe, and now it's kinda too late to do it anyways)
+- A fully functional file system that can easily be used with just [one JSON file](/pages/files.json)!
 - A notes app to think about why there's a Warren's folder and what it could possibly mean!
 - A clicker game to waste time on!
 - A news app for... ~~fictional news~~ no news!
@@ -33,12 +33,14 @@ Originally made for the [**Flavortown WebOS Jam**](https://flavortown.hackclub.c
 **Juniper** ―― Strawberry Snapdragon  
 **Syntrex** ―― insurgingarc  
 **Omega, Omex** ―― Brojogon  
-**Vixie, Lacera** ―― CDE/Cassidy  
+**Vixie, Lacera, Seraphim/Solaire** ―― CDE/Cassidy  
 **All the Graces** ―― Skye/April  
 **Entropy** ―― EdibleEntropy  
 **Ravenpaw** ―― Suggested by Ryuga, from the Warrior Cats series  
-**Jett** ―――― Brilliant.org  
-**The Puppet of Fate** ―――― ?????  
+**WCA!Ravenpaw** ―― Suggested by Ryuga, from the fanmade Warrior Cats Animated series, originally from the Warrior Cats Series
+**Fecto Elfilis** ―― Suggested by Eshan Does, from the Kirby series
+**Jett** ―― Brilliant.org  
+**The Puppet of Fate** ―― The Masters of Fate  
 
 
 ### Feedback and Writing Help
@@ -46,6 +48,8 @@ Originally made for the [**Flavortown WebOS Jam**](https://flavortown.hackclub.c
 **Ryuga** ―― Moderator, wrote Ravenpaw character note and Warrior Cats trivia  
 **Skye/April** ―― Moderator, wrote the Grace character notes  
 **Snapdragon** ―― Owner of the Technical Difficulties Discord server, gave the idea for character files and for Silksong trivia
+**CDE/Cassidy** ―― Moderator, helped give the idea of involving Fecto Elfilis
+**insurgingarc** ―― Did anything involving Syntrex
 
 
 
