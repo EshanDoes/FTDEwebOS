@@ -25,6 +25,7 @@ export default function Main(){
       <WindowIcon window="game" />
       <WindowIcon window="news" />
       <WindowIcon window="contact" />
+      <WindowIcon window="chatlogs" />
     </div>
     <WindowDiv>
     <Window windowName="notesWindow" contentStyle={{ minHeight: 0 }}><p contentEditable="true" spellCheck="false" /></Window>
@@ -50,6 +51,9 @@ export default function Main(){
     </Window>
     <Window windowName="contactWindow">
       <ContactForm />
+    </Window>
+    <Window windowName="chatlogsWindow">
+      
     </Window>
     <Window windowName="touchscreenWindow">
       <h1>NOTICE</h1>
