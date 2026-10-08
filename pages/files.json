@@ -2,74 +2,234 @@
   "type": "folder",
   "content": [
     {
-      "name": "warrens",
+      "name": "notes",
       "type": "folder",
       "content": [
         {
-          "name": "Warren's",
-          "type": "image",
-          "content": "/images/files/warrens.png"
-        },
-        {
-          "name": "menu",
+          "name": "2026March",
           "type": "folder",
           "content": [
             {
-              "name": "Hot Bread",
-              "type": "text",
-              "content": "The number one meal from the restaurant. It features a chicken fried steak with a sauce that is literally just every other sauce that exists combined, and a reverse hot dog placed like a cherry on top. This meal also kills you the fastest, with the consumer's heart immediately stopping as soon as it touches the tongue."
+              "name": "2026March4th",
+              "type": "html",
+              "content": "<p>Hello! My name is █████. Or, well, that isn't my name, I just like censoring it to feel mysterious. This is a little project I've decided to make, ██████ OS! I named it that because I couldn't think of a better name... and I like feeling mysterious. Anyways, I just made this as my own personal way to catalog my notes, files, and more. Although nobody was ever meant to find this outside of myself, I wouldn't be surprised if someone manages to stumble upon this mess of spaghetti code. Either way, I do hope someone else finds the things I put here as interesting as I do!<br><br>- █████</p>"
             },
             {
-              "name": "Reverse Hot Dog",
-              "type": "text",
-              "content": "A sausage with the bread placed inside of the sausage instead of outside, as well as all the sauce used in the reverse hot dog. This is one of the few meals that isn't deadly by itself, which has recently been causing reconciderations as to whether or not this should stay on the menu."
+              "name": "2026March5th",
+              "type": "html",
+              "content": "<p>Hello again! So remember when I said that I was making this for myself personally? Well, I kinda lied about that. I am planning to show this to a group of people at some point, a community of sorts. I have no idea if you are that group, or if you're someone else, but either way you reading this may or may not be intended. Anyways, I've also been planning to put a few things here and there, like maybe an RSS feed I could update whenever there's new details on the Warren's and Pinkbox situation? I dunno, either way I'll keep working on this. Still need to figure out what else to add, though... oh well, I'll just go ahead and see how people are reacting to Pokopia in the meantime. See if it's living up to the hype.<br><br>- █████</p>"
             },
             {
-              "name": "Warren's Classic 2x2 Burger",
-              "type": "text",
-              "content": "It seems like a regular burger on the outside, but there's a lot on the inside. There's iceberg lettuce that comes from an iceberg, ground beef which comes from the ground, salt, imitation (what in the world does the nutrition label mean by that), and the biggest part is the number 1 grade mustard seeds."
+              "name": "2026March9th",
+              "type": "html",
+              "content": "<p>Proof that I won't be consistently making notes. Anyways, I've decided to finally go ahead and start working on the other files in the OS, try and find things to add in here and there. I would use full HTML to format the written files better, but also... text files are more convenient. I'm saving the HTML for these notes specifically, in case I wanna add images and stuff. Sucks, but I can work with it. Making a few general improvements to the OS as well, adding some features and bug fixes and all that.<br>Also, Pokopia seems cool. Might try it sometime.<br><br>- █████</p>"
             },
             {
-              "name": "Greg",
-              "type": "text",
-              "content": "It's literally just a baby named Greg. Rumors say there's a guy being cloned in the kitchen over and over to make each Greg, however whether or not that's true is unconfirmed. This is usually ordered by beasts like caterpillars. Weird, disgusting, humanoid caterpillars."
+              "name": "2026March10th",
+              "type": "html",
+              "content": "<p>I have been wondering on how I could have a way to notify people on an update to the website. I know I could just have a feed for devlogs or something, but I want it so that only the people who are intended to see this site will know when it gets updated, and have it convenient for them while still keeping it somewhat hidden for those who aren't intended to see any of this. Situations like these puzzle me, but I also enjoy them in a way. Taking challenging situations and attempting to solve them is very much something I love to do. Anyways, I'll probably make another note once I have an idea.<br><br>- █████<br>P.S. Happy Mario day!</p>"
             },
             {
-              "name": "srettirF elppA",
-              "type": "text",
-              "content": "It's an apple fritter, except it was made in the mirror dimension that appears in \"Kirby and the Amazing Mirror.\" There's seemingly no difference, but there could very well be an important reason as to why it's made in the mirror dimension every single time."
+              "name": "2026March11th",
+              "type": "html",
+              "content": "<p>I've gotten an idea.<br>I've been thinking of having some kind of question of the day thing. Except, I'm not really known for being consistent with that kind of stuff. Or really anything at all. However, I could use that kind of thing to have updates on the site! Whenever I make an update, I'll start the non-daily thing. People will chalk it up to me being infrequent, which is true, but those who know will immediately notice that there's something new on the site!<br>... I should really add a use for the notifications.<br><br>- █████</p>"
+            },
+            {
+              "name": "2026March12th",
+              "type": "html",
+              "content": "<p>So I've been studying the recent clustural collapse, and <span class=\"fileLink\" onclick=\"openFolder([2])\">the people who got caught up in it.</span> It is very interesting to see how they adapt to this situation, how they interact, and more... as someone part of fate though, I do still have to do what I have to do. There are some people who I may have to stop, but there are also others I may help. I'll have to see who it'll be for each, I'll probably add a little thing at the bottom of each note to remember their course and how to adjust it to the path that aligns the best with fate.<br>... Jeez, how many Graces are there? 14? Guess I gotta get to work then...<br><br>- █████</p><p>P.S. This is █████ from the future, at the moment the file link isn't exactly working. I may or may not remove it at some point, for now I'm unsure.</p><p>P.P.S. This is █████ from the farther future, I decided to fix it.</p>"
+            },
+            {
+              "name": "2026March13th",
+              "type": "html",
+              "content": "<p>Wow, how this website has evolved, huh? I'm highly confident you didn't know this, but before the site looked something like this:</p><img src=\"/images/files/ogSite.png\"><p>I know the image looks JPEG'd, and that's because it is. (Look, the only screenshot I had of the before was a JPEG, okay?) Either way, the site looks a lot different now than it was before. Now there's a file system, the notepad app, a new background which actually doesn't look much different on the image but it was definitely different, animations for the windows, and more. I'm proud of what I did to make this site just a little bit better every day. It's nice to work on stuff like this.<br><br>- █████</p>"
+            },
+            {
+              "name": "2026March14th",
+              "type": "html",
+              "content": "<p>Well, I think I'm done with the character files for now. Had to scale things down a bit (especially with how many Graces there are) but it should be done. I'm glad, especially considering that means this website is almost ready to show! I even added emojis to commemorate this! <img src=\"/images/emojis/cool.png\"><br>... I'm only now just realizing these emojis are really small.<br>Either way, I'll mostly just polish things up here and there. Add things, fix bugs, etcetera. Once that's done, it's good to go!<br><br>- █████</p>"
+            },
+            {
+              "name": "2026March15th",
+              "type": "html",
+              "content": "<p>Well, it looks like this thing is ready! Well, the site itself at least. I still have different things to do here and there to make it presentable to the people who will see it. As for what that means? Well, who knows? Either way, I feel like I'm gonna be writing these notes much less for the next week. Or maybe the same amount?<br><br>- █████</p>"
+            },
+            {
+              "name": "2026March19th",
+              "type": "html",
+              "content": "<p><span class='fileLink' onclick='openWindow(\"gameWindow\", event)'>Vimeo gane</span><br><br>- █████</p>"
+            },
+            {
+              "name": "2026March21st",
+              "type": "html",
+              "content": "<p>Well, uh. When you think about it, if someone outside of the target audience found out about this, how would they understand literally anything? Actually, what even makes this any special from anything else? All I have are files, a notepad, and <span class='fileLink' onclick='openWindow(\"gameWindow\", event)'>vimeo gane</span>. I think I'm gonna add the news or something. Would be a cool idea to have something like that, just so I can keep up with the latest updates. I could automatically pull an article from whatever source I want every week. Might be a decent idea.<br>Wait, what was I talking about again? Oh yeah, context. Gonna need to work on that at some point.<br><br>- █████</p>"
+            },
+            {
+              "name": "2026March23rd",
+              "type": "html",
+              "content": "<p>I normally don't edit my notes, but this note was supposed to be how I addessed Mystery Man's Hobbyist News and just a bit ago he cancelled it. He cancelled his news. He cancelled his news, and now I have to actually watch from a distance to get my news. He literally just cancelled his news.<br><br>- █████</p>"
+            },
+            {
+              "name": "2026 March 25th",
+              "type": "html",
+              "content": "<p>I am sick and tired of pretending these file names are limited by anything. Actually, no I'm not, I like naming files like this.<img src='/images/emojis/smile.png'><br>... I'm starting to realize how sarcastic that sentence sounds with the emoji.<br>Anyways, I'm running out of things to write, so I might as well actually have a way for you to run a function I wrote a few weeks ago but never actually put as, like, a button or anything. <span class='fileLink' onclick='shakeBody()'>Here it is.</span><br><br>- █████</p>"
+            },
+            {
+              "name": "2026March27th",
+              "type": "html",
+              "content": "<p>I know I already said I'm sick and tired of something before, but I am sick and tired of having these notes just be thrown into one folder. As such, I decided to organize them by month. To anyone reading this, you're welcome!<img src='/images/emojis/smile.png'><br><br>- █████</p>"
+            },
+            {
+              "name": "2026March30th",
+              "type": "html",
+              "content": "<p>After all this time, I finally showed the website to the people I was planning to show it to last night! Nobody noticed! I am so happy! Yippie!<br>In all seriousness though, it's very much a mix of relief and wanting to slam my head on my desk. On one hand, I was trying so hard to make an excuse for this site to be sent, and after all that the people I was trying to get to see it still don't know it existed. Not only that, but the people who aren't even part of this group see this site and have no idea what anything here means, and I have to make accomodations for them as well, which is a little difficult considering the amount of context needed to understand this stuff.<br>On the other hand though, it really gives me more time to work on this site. It still needs a bit more fleshing out, and while I will try again to get it shown to that group of people in a few days I'll also be working on polishing this site in the meantime. There's always more to do after all. Maybe I could add a terminal? No, can't think of anything special about that...<br><br>- █████</p>"
+            },
+            {
+              "name": "2026March31st",
+              "type": "html",
+              "content": "<p>Okay Jen's emoticons are DRIVING ME INSANE</p><p>It's not that the use of emoticons is bad, it's just that the emoticons DON'T WORK WELL WITH THE PIXEL FONMT<br>I WANT IT TO BE PIXELATED<br>WHY DOES THIS ； CHARACTER HAVE TO NOT BE PIXELATED<br>; EXISTS<br>WHY<br>I'M LITERALLY MODIFYING THEIR CHAT LOGS IN THE FILES TO MAKE THE EMOTICONS COMPATIBLE WITH THE FONT<br>WHY DOES IT HAVE TO BE SO HAAAAARD</p><p>Anyways, rant aside, I'm still working on this. I just need to add the first article from Mystery Man's Hobbyist News onto the site, and then I'll try again to make them notice this site exists.<br><br>- █████</p><p>P.S. Hold on I think I'm cooking with these emoticons</p><p>P.P.S. Nevermind they suck</p>"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "trivia",
-      "type": "folder",
-      "content": [
-        {
-          "name": "Silksong",
-          "type": "text",
-          "content": "Trobbio's name is a play on the name of his voice actor, Matt Trobbiani.<br>The reason Silksong took so long to release was because the devs were having too much fun adding so much content, and that sized up the scope so much that there became a point where Team Cherry realized there's too much for them to finish.<br>The boss Seth is named after a Hollow Knight fan named Seth Goldman, who was struggling with cancer and had a few months to live and managed to meet Team Cherry during that time.<br>Silksong was originally designed to be DLC for the original Hollow Knight, but got so big it became a full fledged sequel.<br>The reveal trailer for Silksong had many cut areas, such as the Red Coral Gorge, the Pharloom Bay, and more.<br>Silksong currently has 4 main endings, but in the files labelled as \"ending B\" , there is a cut ending named \"Strung to Serve\""
         },
         {
-          "name": "WarriorCats",
-          "type": "text",
-          "content": "The Prophecies Begin originally didn't have an official arc name, with most fans referring to it as The Original Series, until Kate Cary revealed in 2014 that it would officially be called, \"The Prophecies Begin\" with the launch of the paperback reprints.<br>In an interview with Victoria Holmes, she mentioned that Tigerstar's original name in the drafts of Into the Wild was Hammerclaw, but was changed because cats do not know what hammers are.<br>Firestar has the most chapters in his point of view in the entire series, totaling at 176 chapters.<br>Cherith has said that Firestar's \"love\" relationship with Spottedleaf was never shown often when she was alive because he was only a new apprentice at the time. She also feels that the relationship would not have gotten much farther due to the fact medicine cats cannot have mates.<br>Cherith says that if she could have made Ravenpaw a warrior, she would name him Ravenwing. He also has been mistakenly called Ravepaw.<br>Greystripe's name has been mistakenly spelled as \"Grewpaw\"."
-        },
-        {
-          "name": "Deltarune",
-          "type": "text",
-          "content": "Deltarune was originally supposed to release the paid version with chapters 3, 4, and 5, but had to be scaled down to just chapters 3 and 4.<br>The original concept for Deltarune came from a fever dream Toby Fox had in 2011 about the ending of a non-existant video game. After that, he wanted to make this video game. This means it's been about 15 years since the origin of Deltarune.<br>The Deltarune website was functional since around the release of Undertale itself, and there was an image you'd find on the website (him.png) with text written in wingdings, which seems to have existed all the way back in 2015.<br>A lot of Spamton's dialogue almost seemed to be referencing a commercial with a guy named Mike who was advertising Big Shot Soda, airing in 1997. Even now, there's so many names being called out from the very existence of the commercial that I doubt it's a coincidence, even if it's something small like an Easter Egg.<br>In the Spamton NEO fight, there was a glitch allowing you to spam charged shots without having to charge them. In a later update, instead of the glitch being patched out, using it instead made Spamton angry and caused the fight to be harder.<br>Every single voice line in Deltarune is done by Toby Fox.<br>Multiple songs like The Chase have a melody very similar to another song that was made by Toby Fox called Nightmare Knight, uploaded in early 2016 as a fanmade song for Cucumber Quest. Nightmare Knight also parallels the song Black Knife, of which the metadata shows that the composition for Black Knife was done in 2018.<br>Roulxs Kaard was originally going to have his own voice sound, however it was cut out for being too distracting. However, Tenna has a similar voice sound that's arguably more distracting. We want the Roulxs Kaard voice. Give it to us."
-        },
-        {
-          "name": "Splatoon",
-          "type": "text",
-          "content": "aHR0cHM6Ly9kaXNjb3JkLmNvbS9jaGFubmVscy8xMjc5NjMxMTA0MzI3OTQ2MzAxLzEyODAzNTE3NzQxNTgzNTY0OTA"
+          "name": "2026April",
+          "type": "folder",
+          "content": [
+            {
+              "name": "1st",
+              "type": "html",
+              "content": "<p>Placeholder for when I actually use this folder</p>"
+            },
+            {
+              "name": "3rd",
+              "type": "html",
+              "content": "<p>Sorry I didn't have anything yesterday, I was too busy watching number go up.<br>Aside from that though, I've been watching the people that have entered the collapse for now. Such a wide variety of faces, there's almost too many to handle! Well, I say almost not because of the amount of them, but because a lot of them are very easy to handle. Minor characters, in a way. Only there to fill out the empty gaps and bring a world life, nothing more. I do call them minor, but their role is anything but minor, it's just in the perspective of someone from beyond you wouldn't notice if one was missing.<br>Anyways, I'm getting off track. There are still people who we need to keep our eyes on, namely those I put in the character files but also a few more that I've been noticing. It would be a good idea to make sure they're on the right track.<br><br>- █████</p>"
+            },
+            {
+              "name": "7th",
+              "type": "html",
+              "content": "<p>I've been thinking more about the fact I can intercept chat logs, like those DMs with Jen and Shifty. The process is a little hard to do manually, but when I do it I could get a lot of things that other people are saying. Maybe I should make an app to do it automatically... I mean, it would be a little difficult to figure out, but not impossible, right? All I really need is some time to figure it out...<br><br>- █████</p>"
+            },
+            {
+              "name": "9th",
+              "type": "html",
+              "content": "<p>I have to rewrite the entire site to add the chat logs interception.<br>Welp, not gonna back out now!<br><br>- █████</p>"
+            },{
+              "name": "29th",
+              "type": "html",
+              "content": "<p>Talk about a timeskip, huh?<br>So, 20 days without a log. I did kind of take a break from this stuff, because I was busy with some other stuff pertaining to fate, and as the last log said, I had to rewrite the entire site in a new framework. Luckily, I had a deadline to help me remember I had to do this! Without it, I wouldn't have updated for at least a month.<br>Either way, I'm glad I did this. Everything is more organized now, and I can do more with what I have without having to go through a mess of stuff. Plus, I'll be able to do more with this too, like the chat log interceptions, although there's still some things here and there I need to fix before my work is done. Guess I'll try and get back into the habit of noting stuff down for now.<br><br>- █████</p>"
+            },{
+              "name": "30th",
+              "type": "html",
+              "content": "<p>You know, now that I think about it, the notifications button keeps getting added and removed over and over. When I started this, there wasn't a notification button, but then I decided to add it thinking it would be cool to try having notifications, but then the button dissapeared and I didn't notice until a while later, and then when I noticed I decided to add it back and finally finish coding it, but now that everything's transfered I decided to remove it again because I don't feel like doing all the stuff for something like that as well. All of this while I've never actually found a real purpose for the notifications... oh well, once I do I'll probably re-add it again.<br><br>- █████</p>"
+            }
+          ]
         },{
-          "name": "Kirby",
-          "type": "text",
-          "content": "During the development of Kirby and the Forgotten Land, Nintendo had suggested to HAL to add more enemies during playtesting, but they didn't want to because they cared about Kirby (and also because they were considering less experienced players).<br>There's a total of six lyrical songs for the opening and ending credits across the different localizations of Kirby: Right Back at Ya! There's also a seventh song in a promotional video for the anime, meaning there's seven lyrical songs associcated with it.<br>ID-F86 is next.<br>In the files of Kirby Star Allies, Morpho Knight is usually either named Bknight or SecretHades.<br>It's confirmed that Meta Knight actually likes sweet food.<br>Before Kirby's Return to Dreamland Deluxe, fans had assumed that Magolor met Susie in Another Dimension. However, the Magolor's Epilogue side mode deconfirms this. Based off the timeline, it wouldn't make sense either, so either way this was a theory that many people had thought was canon.<br>We all know Marx has no hands, so he uses his hat to grab things instead. However, his design in the Kirby of the Stars! Moretsu Pupupu Hour! manga series gives him hands. I personally have never seen said design, and I don't think I want to. It would not look right."
+          "name": "2026May",
+          "type": "folder",
+          "content": [
+            {
+              "name": "1st",
+              "type": "html",
+              "content": "<p>New month, new features!<br>I decided to add my first keyboard shortcut! Whenever you press ESC, it actually closes the current folder you're on. I thought nothing of it at first, but now that I've actually added it, browsing my files is now a breeze! One thing though, the tree of folders doesn't really go that far down. If you open a folder that's in another folder, there's not gonna be any more folders in that folder. It just ends. I do kinda feel like I should fix that, have more branches, more paths, more to look around, a maze of digital data...<br>Oh wait, I'm getting ahead of myself, I don't need that much. Oh well!<br><br>- █████</p>"
+            },{
+              "name": "4th",
+              "type": "html",
+              "content": "<p>To code, or not to code? That is the question on my mind. I've barely had anything to code, and yet so many ideas I could code. Whether or not I will code is a mystery until I open the code.<br>... I dunno what I'm doing anymore.<br><br>- █████</p>"
+            },{
+              "name": "5th",
+              "type": "html",
+              "content": "<p>I'm running out of things to say, have some bird questions!<br><br>Can birds fly?<br>Can birds cry?<br>Can birds lie?<br>Can birds dry?<br>Can birds die?<br>Can birds buy?<br>Can birds sigh?<br>Can birds tie?<br>Can birds pry?<br>Can birds fry?<br>Can birds try?<br>Can birds pie?<br><br>- █████</p>"
+            },{
+              "name": "6th",
+              "type": "html",
+              "content": "<p>This website has gotten too immersive. I keep reaching for the Alt + F4 shortcut to close a window, but then I have to stop myself and remember that this is a website and not my actual operating system.<br>I also really need things to add to the site. As I rambled about a few days ago, I have a bunch of ideas, but I don't feel like implementing them. It's like I've hit a block in motivation, despite really wanting to implement these features. Is this the coding version of artist block? Code block?<br>... Nah, code blocks would be from Scratch. I feel like there'd be another name for this kinda thing.<br><br>- █████</p>"
+            },{
+              "name": "12th",
+              "type": "html",
+              "content": "<p>I'm bored.<br><br>- █████</p>"
+            },{
+              "name": "14th",
+              "type": "html",
+              "content": "<p>Looking at the character files... what was I thinking when I was writing them? They feel off in multiple different ways... I gotta try and fix that.<br><br>- █████</p>"
+            },{
+              "name": "25th",
+              "type": "html",
+              "content": "<p>I got busy working on an admin panel to see the contacts.<br><br>- █████</p>"
+            }
+          ]
+        },
+        {
+          "name": "2026June",
+          "type": "folder",
+          "content": [
+            {
+              "name": "1st",
+              "type": "html",
+              "content": "<p>So, I found out that Omega and Omex are the same person, so I gotta update the character logs. Great way to start the month!<br>Outside of that, I've been working on fixing bugs in that admin panel. I keep seeing spam mail from that one guy asking about Ravenpaw. It's gotten to the point where he's gonna start trying to threaten Warren's to help him find Ravenpaw. Like, do you even know how deadly their meals are? Can you imagine how much more deadly it would be to go against them? Have you ever thought about how Warren's hasn't been destroyed by the government? You think they haven't tried??? I had to tell him Ravenpaw is in Kirby's basement, and even then, he's gonna leave there in like five minutes!<br>... Wait, telling him Ravenpaw's in Kirby's basement is probably gonna make things worse.<br><br>- █████<br>P.S. Happy pride month!</p>"
+            }
+          ]
+        },
+        {
+          "name": "2026September",
+          "type": "folder",
+          "content": [
+            {
+              "name": "21st",
+              "type": "html",
+              "content": "<p>They're reaching the shrine.<br><br>Syntrex, Entropy, and Mystery Man seem to be on their way to the shrine of fate. It seems to be because they want answers as to what's going on. It's likely that, by now, Syntrex knows that something is going on with fate, and probably wants to stop it.<br>Meanwhile, however, a robot named Jett and two people from the Abyssal Plane are also approaching the location of the shrine. They've settled at a nearby city for now, but it won't be long until they notice it. We'll have to prepare quickly, and make sure the puppet is ready for their arrival.<br><br>- █████</p>"
+            },{
+              "name": "22nd",
+              "type": "html",
+              "content": "<p>I've realized I should probably explain the big gap in time. In short, I've gotten busy during the summer. You know, gotta make sure fate goes smoothly, and all that. Then I remembered that the one guy who keeps asking about Ravenpaw is still looking for him, so that made me remember this website exists, all while those guys from earlier are going to the shrine.<br>Speaking of that though, those people I mentioned earlier are already in front of it. Syntrex, Entropy, Jett, Lacera, and even a few others from Splashdown City, with Mystery Man coming with them. This is a lot of people to handle at once, so we may have to make sure we seal the exit once enough people come in, and somehow manipulate them so that only the people who would or are already going against their fate come in, while everyone else stays out. We could make sure that Ndash enforces who goes in, she's already outside the shrine to keep watch so it would be the most efficient solution. We also probably need to make sure that Syntrex specifically can't bypass the seal, whether to let people in or out. Out best course of action would be to block any potential ways to make a portal inside the shrine, which should be very simple already.<br><br>- █████</p>"
+            },{
+              "name": "23rd",
+              "type": "html",
+              "content": "<p>They had a fight in front of the shrine.<br>They didn't even go inside, and they had a fight in front of the shrine.<br>Mira had some sort of weird bruise thing, it somehow had some kinda fight, I have no idea what was going on but Lacera kept shoving dirt into her and managed to fix it? Like, at least they know the way in now, but they keep trying to find a source of light to go in. They don't know that it's basically a void in the shrine, light is gonna do nothing.<br>On the bright side, it does give us more time to prepare. Still, though, this is ridiculous. They're in front of the door (it's not actually a door, just an open enterance, but we call it a door) and yet they're not actually going in. In the meantime, I guess I'll just go back to planning.<br><br>- █████</p>"
+            },{
+              "name": "24th",
+              "type": "html",
+              "content": "<p>They're making a hut in front of the shrine? Why??? It's a mysterious shrine, they don't know what's going on with it, for all they know it could have some creature of mass destruction! There isn't though, if there was I wouldn't want them in, but WEREN'T YOU GUYS JUST SUSPICIOUS OF WHAT WAS GOING ON IN THERE??? LACERA LITERALLY CRITICIZED MYSTERY MAN ABOUT THE FACT THAT HE WENT TO THE SHRINE WITHOUT KNOWING WHAT'S INSIDE, AND YET SHE'S ONE OF THE PEOPLE THAT HELPED MAKE THE HUT, JUST MAKE IT SOMEWHERE ELSE I DON'T NEED IT OBSCURING MY BIRD'S EYE VIEW ON TOP OF THE SHRINE. IT'S A REALLY COOL VIEW AND YOU RUINED IT WITH YOUR HUT.<br>It's not actually interfering with anything though (outside of that view), just thought I'd just mention it because I'm still waiting for them to go inside.<br><br>- █████</p>"
+            },{
+              "name": "25th",
+              "type": "html",
+              "content": "<p>Before I go on, I do wanna give my thanks to Ndash for summoning that lightning to absolutely destroy that hut. I appreciate it, now I've got my good view back.<br>Anyways, it looks like a few more people showed up to the shrine, and now I think they are actually gonna go inside after Mystery Man dropped a flower in there and made them realize they don't need a light to see in the shrine. Most of them left by then, though, so it seems to be just Syntrex, an angel named Seraphim, another Grace named DarkKoopa, and some cartoon version of Ravenpaw. (The Ravenpaw Fan is still gonna be trying to get into Kirby's basement to find him.)<br>Oh right, there's another Ravenpaw. Apparently this one goes by cartoon logic and is stupid powerful, like, he has Kingdom Hearts attacks for some reason. It would be really funny if I left him out of the shrine, but to be honest Seraphim might be more deserving to get left out, considering her trauma might not make her deal with the info the puppet would give very well. I'm probably not gonna leave anyone behind, though.<br>Anyways, there is still the shattered mirror from earlier that I've still gotta pick up, but I think it might be cool if they see through it. I'm also gonna be speaking as the puppet to warn the group about fate stuff, what happens if fate is broken, and other stuff, but I gotta be careful what I say in case any of them start talking about it to other people and it spreads to the public. If they don't listen to the warnings, though... I'm probably not gonna fight them, those strings can be cut easily and right now it would take one of us actually going in the shrine to fix it, and that's be very inconvenient. But, I am likely gonna get specimen ID-F86, make some \"negotiation\", and use him as a distraction while we figure out what to actually do based off the short-term aftermath of the party learning about fate. In the meantime though, I've got some new character logs to write.<br><br>- █████</p>"
+            },{
+              "name": "28th",
+              "type": "html",
+              "content": "<p>Well, I guess Syntrex has found this website. Hello to you too, Syntrex! For the record, I think Warren's is better than Pinkbox. Thanks for the grammar corrections, by the way, never expected you to give any.<br>Anyways, I've gotten the specimen ahead of time in the middle of his fight against the pink puffball. Naturally, he's very confused, and likely still on the high of being free, but I'll give him some time to calm down first. Once he does, I'll send in the puppet, and try to negotiate a deal. If he doesn't accept bargians, I may have to use threats, but hopefully it doesn't come to that point.<br>The plan is to have him merge very specific locations into very specific other locations to make it seem like he's trying to conquer as usual. However, the locations, as I said, will be specifically chosen, as to make sure that they merge well together, and we'll try our best to choose locations with very few to no people. After that, some may try to fight him, and we'll tell him to give it his all, but at the end of the day there's already people strong enough to beat him at his best. I'm not entirely sure about whether or not they would free his other half, but we don't need to worry about that. It's not like the little guy will be able to do much.<br><br>- █████</p>"
+            },{
+              "name": "29th",
+              "type": "html",
+              "content": "<p>Syntrex ended up using future sight with his <s>Porygon-Z</s> to see exactly what'll happen. (I knew I'd get it wrong, turns out it was not a Porygon-Z.) Normally this would be an issue, but it doesn't look like he's gonna stop everyone else from entering the shrine. He mostly seems to be trying to figure out a plan on his own. Does he even know I spotted his Pokemon using future sight? I don't know, he might, not gonna leave that possibility out of the question. He'll know either way because he can see this site, so whether or not he did before doesn't exactly matter. For the most part, though, everything will go as planned. Even if it doesn't, based off Syntrex's reaction, it's likely they don't need to go into the shrine, and we can skip straight to sending ID-F86 out. I'll try and make sure they do get in though, it's good to make sure everyone else gets the warning, and as I said earlier, Syntrex isn't stopping them.<br>Oh yeah, I forgot to mention, a Sylveon somehow appeared in the shrine. Dunno how that happened, might have to consult the others about if someone made a mistake during the collapse that caused them to get in there.<br><br>- █████<br>P.S. They're now sleeping in front of the shrine. Even when they saw the hut get struck by lightning. Does nobody going in the shrine have any survival instincts???</p>"
+            },{
+              "name": "30th",
+              "type": "html",
+              "content": "<p>Syntrex and The Ravenpaw Fan are slowly turning into my proofreaders and I have no idea how it's ended up like that. (I should get more sleep with how many typos I let slip through.)<br>Anyways, I've decided to start working on the chat logs interceptor. It's probably gonna stay in the beta for a fair bit, but that's mostly because this interception uses a flaw in the scecurity of a major social media platform that happens to be used by many people in the collapse. Every chat has a unique encrypted ID meant to be used by admins to moderate different chats, but with the right setup, anyone can try to enter these IDs. They're more like unique passwords in a way, each one bringing you to different chats, however you can't really talk in them because it was only meant for moderation in case someone does something.<br>... I'm starting to realize how much of an invasion of privacy that platform has because of how they handle their moderation. I know it's to be expected considering how major companies treat privacy, but... still.<br>Anyways, I'll just get back to working on that. One would think that this would be a problem because of cybersecurity or something, but I know exactly who's on this website.<br><br>- █████</p>"
+            }
+          ]
+        },{
+          "name": "2026October",
+          "type": "folder",
+          "content": [
+            {
+              "name": "1st",
+              "type": "html",
+              "content": "<p>Another month, another folder, and another round of corrections! Don't worry, The Ravenpaw Fan, I don't mind it.<br>Anyways, they should be entering the shrine tomorrow. Syntrex, Seraphim, that weird cartoon Ravenpaw, the Sylveon (that's apparently named Faye), DarkKoopa, and I was considering maybe Omex, but then I happened to get more info on them and decided they should stay oblivious (and we may or may not have to make sure they're actually possessing a dead body and not an alive one). I'll probably update Omex's character file about our new priorities with how to handle them. As for Syntrex though, he had given a heavily redacted document about himself to Seraphim and cartoon Ravenpaw, which they both managed to read. The cartoon Ravenpaw actually did it by looking closely at the text and typing it out on his phone, which took a lot longer than Seraphim just looking at it. I didn't get to take a look at it, but I might be able to get into his phone and read it. I didn't color this website \"hacker green\" for no reason.<br>In other news, though, I've used the puppet and managed to do a little bit of negotiating with ID-F86. It may have required making him experience extreme amounts of pain for him to agree, but I don't think it'd be very easy to strike a deal with a destroyer of worlds otherwise. I believe I already talked about my goal with this in another note a bit ago, so I don't need to go through it here, but long story short is he'll be a distraction to make we have more time to plan.<br>... Now that I think about it, maybe I should've used the extra week to actually plan instead of taking the effort to get ID-F86 to give me time to plan. That wasn't a good idea at all.<br><br>- █████</p>"
+            },{
+              "name": "2nd",
+              "type": "html",
+              "content": "<p>They went into the shrine today. Syntrex, DarkKoopa, Faye, the cartoon Ravenpaw, another cartoon cat (Cinderpaw), Seraphim, and then later on, Entropy entered as well (and Green tried to get in but we sealed it before he could so he wouldn't see the horrors). It seemed like Syntrex, because he already knew what was gonna happen from the future sight, tried to experiment with the glass to figure out its properties. He also stored most if not all of the shards for later, but not before most of the others got to take a look and around half didn't like what they saw. Either way, the puppet then appeared after a bit, and I will admit that I could've done better with figuring out what to say, but it seems like everyone else got the memo. Seraphim was a lot angrier than expected, though.<br>Speaking of Seraphim, Syntrex ended up trying to make a deal with me to make sure she doesn't die in exchange for giving the shards of the mirror back. We already have a lot more, but I decided to oblige anyways considering one's death would usually go against their own fate. He also said he'd make sure to keep people safe once we let ID-F86 out, which is a net positive. We're in the midst of finalizing the areas that'll be put through this, but our main target is the underground because of how few people have been living there since the barrier broke. In the meantime... I have no idea what they're doing, I think Syntrex and Seraphim are looking for a supermarket chain???<br><br>- █████<br>P.S. Ravenpaw may or may not be going out of Kirby's basement. The Ravenpaw Fan will be glad to hear the news.</p>"
+            },{
+              "name": "7th",
+              "type": "html",
+              "content": "<p>So uh, despite the fact that there's a lot of stuff happening, I kinda haven't had much to write about this past little bit. The reason? There's too much stuff happening. I can't make a commitment to keeping up with that, because I have to make sure other stuff with fate is going well AND have to make sure ID-F86 is still sane. I just keep dropping in copies of Planet Popstar with a HEAVILY weakened Kirby for him to be occupied, and I still don't think it's gonna help because doing the same thing over and over isn't exactly good for one's mental health, planet conquerer or otherwise.<br>Speaking of that, though, we've gotten a good idea of what places will be merged. Areas in the underground have basically been turned into a final draft, so that's our main concerns dealt with. A fellow Guardian of Fate did end up giving a live-updaing list of which locations are being merged, which I kinda wanted to make sure was done a bit later, but we do still have that deal, so alright. (Just hope too much info doesn't get spilled though, I've already been trying hard enough to make sure anyone who knows doesn't start telling other people about it...)<br>Anyways, that's kinda about it.<br><br>- █████<br>... Wait, why can I see The Ravenpaw Fan in the void with ID-F86?</p>"
+            },{
+              "name": "8th",
+              "type": "html",
+              "content": "<p>So The Ravenpaw Fan somehow appeared where I was keeping F86??? I have no idea how he got there, but F86 just kept attacking him, and before I could tell him to stop The Ravenpaw Fan used some kinda machine to get out. I have no idea what was going on with that, but okay.<br>Anyways, I believe Syntrex may have something deeper planned for once we send out F86. I don't know what he's got going on, but it does seem to come at the expense of his bonds. I don't know what he's doing, but I am interested in this. Again, it's a bit hard to keep up with his happenings, but I'll likely check in with him at some point later.<br>This may be a little bit of a shorter note, but I can get a bit busy sometimes. Hopefully later on I'll be able to write a longer note, but for now we have to plan. Actually plan stuff this time though, not plan an excuse to get more time to plan even though we already had quite a bit of time to plan.<br><br>- █████</p>"
+            }
+          ]
         }
       ]
     },
@@ -327,232 +487,72 @@
       ]
     },
     {
-      "name": "notes",
+      "name": "trivia",
       "type": "folder",
       "content": [
         {
-          "name": "2026March",
-          "type": "folder",
-          "content": [
-            {
-              "name": "2026March4th",
-              "type": "html",
-              "content": "<p>Hello! My name is █████. Or, well, that isn't my name, I just like censoring it to feel mysterious. This is a little project I've decided to make, ██████ OS! I named it that because I couldn't think of a better name... and I like feeling mysterious. Anyways, I just made this as my own personal way to catalog my notes, files, and more. Although nobody was ever meant to find this outside of myself, I wouldn't be surprised if someone manages to stumble upon this mess of spaghetti code. Either way, I do hope someone else finds the things I put here as interesting as I do!<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March5th",
-              "type": "html",
-              "content": "<p>Hello again! So remember when I said that I was making this for myself personally? Well, I kinda lied about that. I am planning to show this to a group of people at some point, a community of sorts. I have no idea if you are that group, or if you're someone else, but either way you reading this may or may not be intended. Anyways, I've also been planning to put a few things here and there, like maybe an RSS feed I could update whenever there's new details on the Warren's and Pinkbox situation? I dunno, either way I'll keep working on this. Still need to figure out what else to add, though... oh well, I'll just go ahead and see how people are reacting to Pokopia in the meantime. See if it's living up to the hype.<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March9th",
-              "type": "html",
-              "content": "<p>Proof that I won't be consistently making notes. Anyways, I've decided to finally go ahead and start working on the other files in the OS, try and find things to add in here and there. I would use full HTML to format the written files better, but also... text files are more convenient. I'm saving the HTML for these notes specifically, in case I wanna add images and stuff. Sucks, but I can work with it. Making a few general improvements to the OS as well, adding some features and bug fixes and all that.<br>Also, Pokopia seems cool. Might try it sometime.<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March10th",
-              "type": "html",
-              "content": "<p>I have been wondering on how I could have a way to notify people on an update to the website. I know I could just have a feed for devlogs or something, but I want it so that only the people who are intended to see this site will know when it gets updated, and have it convenient for them while still keeping it somewhat hidden for those who aren't intended to see any of this. Situations like these puzzle me, but I also enjoy them in a way. Taking challenging situations and attempting to solve them is very much something I love to do. Anyways, I'll probably make another note once I have an idea.<br><br>- █████<br>P.S. Happy Mario day!</p>"
-            },
-            {
-              "name": "2026March11th",
-              "type": "html",
-              "content": "<p>I've gotten an idea.<br>I've been thinking of having some kind of question of the day thing. Except, I'm not really known for being consistent with that kind of stuff. Or really anything at all. However, I could use that kind of thing to have updates on the site! Whenever I make an update, I'll start the non-daily thing. People will chalk it up to me being infrequent, which is true, but those who know will immediately notice that there's something new on the site!<br>... I should really add a use for the notifications.<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March12th",
-              "type": "html",
-              "content": "<p>So I've been studying the recent clustural collapse, and <span class=\"fileLink\" onclick=\"openFolder([2])\">the people who got caught up in it.</span> It is very interesting to see how they adapt to this situation, how they interact, and more... as someone part of fate though, I do still have to do what I have to do. There are some people who I may have to stop, but there are also others I may help. I'll have to see who it'll be for each, I'll probably add a little thing at the bottom of each note to remember their course and how to adjust it to the path that aligns the best with fate.<br>... Jeez, how many Graces are there? 14? Guess I gotta get to work then...<br><br>- █████</p><p>P.S. This is █████ from the future, at the moment the file link isn't exactly working. I may or may not remove it at some point, for now I'm unsure.</p><p>P.P.S. This is █████ from the farther future, I decided to fix it.</p>"
-            },
-            {
-              "name": "2026March13th",
-              "type": "html",
-              "content": "<p>Wow, how this website has evolved, huh? I'm highly confident you didn't know this, but before the site looked something like this:</p><img src=\"/images/files/ogSite.png\"><p>I know the image looks JPEG'd, and that's because it is. (Look, the only screenshot I had of the before was a JPEG, okay?) Either way, the site looks a lot different now than it was before. Now there's a file system, the notepad app, a new background which actually doesn't look much different on the image but it was definitely different, animations for the windows, and more. I'm proud of what I did to make this site just a little bit better every day. It's nice to work on stuff like this.<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March14th",
-              "type": "html",
-              "content": "<p>Well, I think I'm done with the character files for now. Had to scale things down a bit (especially with how many Graces there are) but it should be done. I'm glad, especially considering that means this website is almost ready to show! I even added emojis to commemorate this! <img src=\"/images/emojis/cool.png\"><br>... I'm only now just realizing these emojis are really small.<br>Either way, I'll mostly just polish things up here and there. Add things, fix bugs, etcetera. Once that's done, it's good to go!<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March15th",
-              "type": "html",
-              "content": "<p>Well, it looks like this thing is ready! Well, the site itself at least. I still have different things to do here and there to make it presentable to the people who will see it. As for what that means? Well, who knows? Either way, I feel like I'm gonna be writing these notes much less for the next week. Or maybe the same amount?<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March19th",
-              "type": "html",
-              "content": "<p><span class='fileLink' onclick='openWindow(\"gameWindow\", event)'>Vimeo gane</span><br><br>- █████</p>"
-            },
-            {
-              "name": "2026March21st",
-              "type": "html",
-              "content": "<p>Well, uh. When you think about it, if someone outside of the target audience found out about this, how would they understand literally anything? Actually, what even makes this any special from anything else? All I have are files, a notepad, and <span class='fileLink' onclick='openWindow(\"gameWindow\", event)'>vimeo gane</span>. I think I'm gonna add the news or something. Would be a cool idea to have something like that, just so I can keep up with the latest updates. I could automatically pull an article from whatever source I want every week. Might be a decent idea.<br>Wait, what was I talking about again? Oh yeah, context. Gonna need to work on that at some point.<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March23rd",
-              "type": "html",
-              "content": "<p>I normally don't edit my notes, but this note was supposed to be how I addessed Mystery Man's Hobbyist News and just a bit ago he cancelled it. He cancelled his news. He cancelled his news, and now I have to actually watch from a distance to get my news. He literally just cancelled his news.<br><br>- █████</p>"
-            },
-            {
-              "name": "2026 March 25th",
-              "type": "html",
-              "content": "<p>I am sick and tired of pretending these file names are limited by anything. Actually, no I'm not, I like naming files like this.<img src='/images/emojis/smile.png'><br>... I'm starting to realize how sarcastic that sentence sounds with the emoji.<br>Anyways, I'm running out of things to write, so I might as well actually have a way for you to run a function I wrote a few weeks ago but never actually put as, like, a button or anything. <span class='fileLink' onclick='shakeBody()'>Here it is.</span><br><br>- █████</p>"
-            },
-            {
-              "name": "2026March27th",
-              "type": "html",
-              "content": "<p>I know I already said I'm sick and tired of something before, but I am sick and tired of having these notes just be thrown into one folder. As such, I decided to organize them by month. To anyone reading this, you're welcome!<img src='/images/emojis/smile.png'><br><br>- █████</p>"
-            },
-            {
-              "name": "2026March30th",
-              "type": "html",
-              "content": "<p>After all this time, I finally showed the website to the people I was planning to show it to last night! Nobody noticed! I am so happy! Yippie!<br>In all seriousness though, it's very much a mix of relief and wanting to slam my head on my desk. On one hand, I was trying so hard to make an excuse for this site to be sent, and after all that the people I was trying to get to see it still don't know it existed. Not only that, but the people who aren't even part of this group see this site and have no idea what anything here means, and I have to make accomodations for them as well, which is a little difficult considering the amount of context needed to understand this stuff.<br>On the other hand though, it really gives me more time to work on this site. It still needs a bit more fleshing out, and while I will try again to get it shown to that group of people in a few days I'll also be working on polishing this site in the meantime. There's always more to do after all. Maybe I could add a terminal? No, can't think of anything special about that...<br><br>- █████</p>"
-            },
-            {
-              "name": "2026March31st",
-              "type": "html",
-              "content": "<p>Okay Jen's emoticons are DRIVING ME INSANE</p><p>It's not that the use of emoticons is bad, it's just that the emoticons DON'T WORK WELL WITH THE PIXEL FONMT<br>I WANT IT TO BE PIXELATED<br>WHY DOES THIS ； CHARACTER HAVE TO NOT BE PIXELATED<br>; EXISTS<br>WHY<br>I'M LITERALLY MODIFYING THEIR CHAT LOGS IN THE FILES TO MAKE THE EMOTICONS COMPATIBLE WITH THE FONT<br>WHY DOES IT HAVE TO BE SO HAAAAARD</p><p>Anyways, rant aside, I'm still working on this. I just need to add the first article from Mystery Man's Hobbyist News onto the site, and then I'll try again to make them notice this site exists.<br><br>- █████</p><p>P.S. Hold on I think I'm cooking with these emoticons</p><p>P.P.S. Nevermind they suck</p>"
-            }
-          ]
+          "name": "Silksong",
+          "type": "text",
+          "content": "Trobbio's name is a play on the name of his voice actor, Matt Trobbiani.<br>The reason Silksong took so long to release was because the devs were having too much fun adding so much content, and that sized up the scope so much that there became a point where Team Cherry realized there's too much for them to finish.<br>The boss Seth is named after a Hollow Knight fan named Seth Goldman, who was struggling with cancer and had a few months to live and managed to meet Team Cherry during that time.<br>Silksong was originally designed to be DLC for the original Hollow Knight, but got so big it became a full fledged sequel.<br>The reveal trailer for Silksong had many cut areas, such as the Red Coral Gorge, the Pharloom Bay, and more.<br>Silksong currently has 4 main endings, but in the files labelled as \"ending B\" , there is a cut ending named \"Strung to Serve\""
         },
         {
-          "name": "2026April",
-          "type": "folder",
-          "content": [
-            {
-              "name": "1st",
-              "type": "html",
-              "content": "<p>Placeholder for when I actually use this folder</p>"
-            },
-            {
-              "name": "3rd",
-              "type": "html",
-              "content": "<p>Sorry I didn't have anything yesterday, I was too busy watching number go up.<br>Aside from that though, I've been watching the people that have entered the collapse for now. Such a wide variety of faces, there's almost too many to handle! Well, I say almost not because of the amount of them, but because a lot of them are very easy to handle. Minor characters, in a way. Only there to fill out the empty gaps and bring a world life, nothing more. I do call them minor, but their role is anything but minor, it's just in the perspective of someone from beyond you wouldn't notice if one was missing.<br>Anyways, I'm getting off track. There are still people who we need to keep our eyes on, namely those I put in the character files but also a few more that I've been noticing. It would be a good idea to make sure they're on the right track.<br><br>- █████</p>"
-            },
-            {
-              "name": "7th",
-              "type": "html",
-              "content": "<p>I've been thinking more about the fact I can intercept chat logs, like those DMs with Jen and Shifty. The process is a little hard to do manually, but when I do it I could get a lot of things that other people are saying. Maybe I should make an app to do it automatically... I mean, it would be a little difficult to figure out, but not impossible, right? All I really need is some time to figure it out...<br><br>- █████</p>"
-            },
-            {
-              "name": "9th",
-              "type": "html",
-              "content": "<p>I have to rewrite the entire site to add the chat logs interception.<br>Welp, not gonna back out now!<br><br>- █████</p>"
-            },{
-              "name": "29th",
-              "type": "html",
-              "content": "<p>Talk about a timeskip, huh?<br>So, 20 days without a log. I did kind of take a break from this stuff, because I was busy with some other stuff pertaining to fate, and as the last log said, I had to rewrite the entire site in a new framework. Luckily, I had a deadline to help me remember I had to do this! Without it, I wouldn't have updated for at least a month.<br>Either way, I'm glad I did this. Everything is more organized now, and I can do more with what I have without having to go through a mess of stuff. Plus, I'll be able to do more with this too, like the chat log interceptions, although there's still some things here and there I need to fix before my work is done. Guess I'll try and get back into the habit of noting stuff down for now.<br><br>- █████</p>"
-            },{
-              "name": "30th",
-              "type": "html",
-              "content": "<p>You know, now that I think about it, the notifications button keeps getting added and removed over and over. When I started this, there wasn't a notification button, but then I decided to add it thinking it would be cool to try having notifications, but then the button dissapeared and I didn't notice until a while later, and then when I noticed I decided to add it back and finally finish coding it, but now that everything's transfered I decided to remove it again because I don't feel like doing all the stuff for something like that as well. All of this while I've never actually found a real purpose for the notifications... oh well, once I do I'll probably re-add it again.<br><br>- █████</p>"
-            }
-          ]
+          "name": "WarriorCats",
+          "type": "text",
+          "content": "The Prophecies Begin originally didn't have an official arc name, with most fans referring to it as The Original Series, until Kate Cary revealed in 2014 that it would officially be called, \"The Prophecies Begin\" with the launch of the paperback reprints.<br>In an interview with Victoria Holmes, she mentioned that Tigerstar's original name in the drafts of Into the Wild was Hammerclaw, but was changed because cats do not know what hammers are.<br>Firestar has the most chapters in his point of view in the entire series, totaling at 176 chapters.<br>Cherith has said that Firestar's \"love\" relationship with Spottedleaf was never shown often when she was alive because he was only a new apprentice at the time. She also feels that the relationship would not have gotten much farther due to the fact medicine cats cannot have mates.<br>Cherith says that if she could have made Ravenpaw a warrior, she would name him Ravenwing. He also has been mistakenly called Ravepaw.<br>Greystripe's name has been mistakenly spelled as \"Grewpaw\"."
+        },
+        {
+          "name": "Deltarune",
+          "type": "text",
+          "content": "Deltarune was originally supposed to release the paid version with chapters 3, 4, and 5, but had to be scaled down to just chapters 3 and 4.<br>The original concept for Deltarune came from a fever dream Toby Fox had in 2011 about the ending of a non-existant video game. After that, he wanted to make this video game. This means it's been about 15 years since the origin of Deltarune.<br>The Deltarune website was functional since around the release of Undertale itself, and there was an image you'd find on the website (him.png) with text written in wingdings, which seems to have existed all the way back in 2015.<br>A lot of Spamton's dialogue almost seemed to be referencing a commercial with a guy named Mike who was advertising Big Shot Soda, airing in 1997. Even now, there's so many names being called out from the very existence of the commercial that I doubt it's a coincidence, even if it's something small like an Easter Egg.<br>In the Spamton NEO fight, there was a glitch allowing you to spam charged shots without having to charge them. In a later update, instead of the glitch being patched out, using it instead made Spamton angry and caused the fight to be harder.<br>Every single voice line in Deltarune is done by Toby Fox.<br>Multiple songs like The Chase have a melody very similar to another song that was made by Toby Fox called Nightmare Knight, uploaded in early 2016 as a fanmade song for Cucumber Quest. Nightmare Knight also parallels the song Black Knife, of which the metadata shows that the composition for Black Knife was done in 2018.<br>Roulxs Kaard was originally going to have his own voice sound, however it was cut out for being too distracting. However, Tenna has a similar voice sound that's arguably more distracting. We want the Roulxs Kaard voice. Give it to us."
+        },
+        {
+          "name": "Splatoon",
+          "type": "text",
+          "content": "aHR0cHM6Ly9kaXNjb3JkLmNvbS9jaGFubmVscy8xMjc5NjMxMTA0MzI3OTQ2MzAxLzEyODAzNTE3NzQxNTgzNTY0OTA"
         },{
-          "name": "2026May",
-          "type": "folder",
-          "content": [
-            {
-              "name": "1st",
-              "type": "html",
-              "content": "<p>New month, new features!<br>I decided to add my first keyboard shortcut! Whenever you press ESC, it actually closes the current folder you're on. I thought nothing of it at first, but now that I've actually added it, browsing my files is now a breeze! One thing though, the tree of folders doesn't really go that far down. If you open a folder that's in another folder, there's not gonna be any more folders in that folder. It just ends. I do kinda feel like I should fix that, have more branches, more paths, more to look around, a maze of digital data...<br>Oh wait, I'm getting ahead of myself, I don't need that much. Oh well!<br><br>- █████</p>"
-            },{
-              "name": "4th",
-              "type": "html",
-              "content": "<p>To code, or not to code? That is the question on my mind. I've barely had anything to code, and yet so many ideas I could code. Whether or not I will code is a mystery until I open the code.<br>... I dunno what I'm doing anymore.<br><br>- █████</p>"
-            },{
-              "name": "5th",
-              "type": "html",
-              "content": "<p>I'm running out of things to say, have some bird questions!<br><br>Can birds fly?<br>Can birds cry?<br>Can birds lie?<br>Can birds dry?<br>Can birds die?<br>Can birds buy?<br>Can birds sigh?<br>Can birds tie?<br>Can birds pry?<br>Can birds fry?<br>Can birds try?<br>Can birds pie?<br><br>- █████</p>"
-            },{
-              "name": "6th",
-              "type": "html",
-              "content": "<p>This website has gotten too immersive. I keep reaching for the Alt + F4 shortcut to close a window, but then I have to stop myself and remember that this is a website and not my actual operating system.<br>I also really need things to add to the site. As I rambled about a few days ago, I have a bunch of ideas, but I don't feel like implementing them. It's like I've hit a block in motivation, despite really wanting to implement these features. Is this the coding version of artist block? Code block?<br>... Nah, code blocks would be from Scratch. I feel like there'd be another name for this kinda thing.<br><br>- █████</p>"
-            },{
-              "name": "12th",
-              "type": "html",
-              "content": "<p>I'm bored.<br><br>- █████</p>"
-            },{
-              "name": "14th",
-              "type": "html",
-              "content": "<p>Looking at the character files... what was I thinking when I was writing them? They feel off in multiple different ways... I gotta try and fix that.<br><br>- █████</p>"
-            },{
-              "name": "25th",
-              "type": "html",
-              "content": "<p>I got busy working on an admin panel to see the contacts.<br><br>- █████</p>"
-            }
-          ]
+          "name": "Kirby",
+          "type": "text",
+          "content": "During the development of Kirby and the Forgotten Land, Nintendo had suggested to HAL to add more enemies during playtesting, but they didn't want to because they cared about Kirby (and also because they were considering less experienced players).<br>There's a total of six lyrical songs for the opening and ending credits across the different localizations of Kirby: Right Back at Ya! There's also a seventh song in a promotional video for the anime, meaning there's seven lyrical songs associcated with it.<br>ID-F86 is next.<br>In the files of Kirby Star Allies, Morpho Knight is usually either named Bknight or SecretHades.<br>It's confirmed that Meta Knight actually likes sweet food.<br>Before Kirby's Return to Dreamland Deluxe, fans had assumed that Magolor met Susie in Another Dimension. However, the Magolor's Epilogue side mode deconfirms this. Based off the timeline, it wouldn't make sense either, so either way this was a theory that many people had thought was canon.<br>We all know Marx has no hands, so he uses his hat to grab things instead. However, his design in the Kirby of the Stars! Moretsu Pupupu Hour! manga series gives him hands. I personally have never seen said design, and I don't think I want to. It would not look right."
+        }
+      ]
+    },
+    {
+      "name": "warrens",
+      "type": "folder",
+      "content": [
+        {
+          "name": "Warren's",
+          "type": "image",
+          "content": "/images/files/warrens.png"
         },
         {
-          "name": "2026June",
+          "name": "menu",
           "type": "folder",
           "content": [
             {
-              "name": "1st",
-              "type": "html",
-              "content": "<p>So, I found out that Omega and Omex are the same person, so I gotta update the character logs. Great way to start the month!<br>Outside of that, I've been working on fixing bugs in that admin panel. I keep seeing spam mail from that one guy asking about Ravenpaw. It's gotten to the point where he's gonna start trying to threaten Warren's to help him find Ravenpaw. Like, do you even know how deadly their meals are? Can you imagine how much more deadly it would be to go against them? Have you ever thought about how Warren's hasn't been destroyed by the government? You think they haven't tried??? I had to tell him Ravenpaw is in Kirby's basement, and even then, he's gonna leave there in like five minutes!<br>... Wait, telling him Ravenpaw's in Kirby's basement is probably gonna make things worse.<br><br>- █████<br>P.S. Happy pride month!</p>"
-            }
-          ]
-        },
-        {
-          "name": "2026September",
-          "type": "folder",
-          "content": [
+              "name": "Hot Bread",
+              "type": "text",
+              "content": "The number one meal from the restaurant. It features a chicken fried steak with a sauce that is literally just every other sauce that exists combined, and a reverse hot dog placed like a cherry on top. This meal also kills you the fastest, with the consumer's heart immediately stopping as soon as it touches the tongue."
+            },
             {
-              "name": "21st",
-              "type": "html",
-              "content": "<p>They're reaching the shrine.<br><br>Syntrex, Entropy, and Mystery Man seem to be on their way to the shrine of fate. It seems to be because they want answers as to what's going on. It's likely that, by now, Syntrex knows that something is going on with fate, and probably wants to stop it.<br>Meanwhile, however, a robot named Jett and two people from the Abyssal Plane are also approaching the location of the shrine. They've settled at a nearby city for now, but it won't be long until they notice it. We'll have to prepare quickly, and make sure the puppet is ready for their arrival.<br><br>- █████</p>"
-            },{
-              "name": "22nd",
-              "type": "html",
-              "content": "<p>I've realized I should probably explain the big gap in time. In short, I've gotten busy during the summer. You know, gotta make sure fate goes smoothly, and all that. Then I remembered that the one guy who keeps asking about Ravenpaw is still looking for him, so that made me remember this website exists, all while those guys from earlier are going to the shrine.<br>Speaking of that though, those people I mentioned earlier are already in front of it. Syntrex, Entropy, Jett, Lacera, and even a few others from Splashdown City, with Mystery Man coming with them. This is a lot of people to handle at once, so we may have to make sure we seal the exit once enough people come in, and somehow manipulate them so that only the people who would or are already going against their fate come in, while everyone else stays out. We could make sure that Ndash enforces who goes in, she's already outside the shrine to keep watch so it would be the most efficient solution. We also probably need to make sure that Syntrex specifically can't bypass the seal, whether to let people in or out. Out best course of action would be to block any potential ways to make a portal inside the shrine, which should be very simple already.<br><br>- █████</p>"
-            },{
-              "name": "23rd",
-              "type": "html",
-              "content": "<p>They had a fight in front of the shrine.<br>They didn't even go inside, and they had a fight in front of the shrine.<br>Mira had some sort of weird bruise thing, it somehow had some kinda fight, I have no idea what was going on but Lacera kept shoving dirt into her and managed to fix it? Like, at least they know the way in now, but they keep trying to find a source of light to go in. They don't know that it's basically a void in the shrine, light is gonna do nothing.<br>On the bright side, it does give us more time to prepare. Still, though, this is ridiculous. They're in front of the door (it's not actually a door, just an open enterance, but we call it a door) and yet they're not actually going in. In the meantime, I guess I'll just go back to planning.<br><br>- █████</p>"
-            },{
-              "name": "24th",
-              "type": "html",
-              "content": "<p>They're making a hut in front of the shrine? Why??? It's a mysterious shrine, they don't know what's going on with it, for all they know it could have some creature of mass destruction! There isn't though, if there was I wouldn't want them in, but WEREN'T YOU GUYS JUST SUSPICIOUS OF WHAT WAS GOING ON IN THERE??? LACERA LITERALLY CRITICIZED MYSTERY MAN ABOUT THE FACT THAT HE WENT TO THE SHRINE WITHOUT KNOWING WHAT'S INSIDE, AND YET SHE'S ONE OF THE PEOPLE THAT HELPED MAKE THE HUT, JUST MAKE IT SOMEWHERE ELSE I DON'T NEED IT OBSCURING MY BIRD'S EYE VIEW ON TOP OF THE SHRINE. IT'S A REALLY COOL VIEW AND YOU RUINED IT WITH YOUR HUT.<br>It's not actually interfering with anything though (outside of that view), just thought I'd just mention it because I'm still waiting for them to go inside.<br><br>- █████</p>"
-            },{
-              "name": "25th",
-              "type": "html",
-              "content": "<p>Before I go on, I do wanna give my thanks to Ndash for summoning that lightning to absolutely destroy that hut. I appreciate it, now I've got my good view back.<br>Anyways, it looks like a few more people showed up to the shrine, and now I think they are actually gonna go inside after Mystery Man dropped a flower in there and made them realize they don't need a light to see in the shrine. Most of them left by then, though, so it seems to be just Syntrex, an angel named Seraphim, another Grace named DarkKoopa, and some cartoon version of Ravenpaw. (The Ravenpaw Fan is still gonna be trying to get into Kirby's basement to find him.)<br>Oh right, there's another Ravenpaw. Apparently this one goes by cartoon logic and is stupid powerful, like, he has Kingdom Hearts attacks for some reason. It would be really funny if I left him out of the shrine, but to be honest Seraphim might be more deserving to get left out, considering her trauma might not make her deal with the info the puppet would give very well. I'm probably not gonna leave anyone behind, though.<br>Anyways, there is still the shattered mirror from earlier that I've still gotta pick up, but I think it might be cool if they see through it. I'm also gonna be speaking as the puppet to warn the group about fate stuff, what happens if fate is broken, and other stuff, but I gotta be careful what I say in case any of them start talking about it to other people and it spreads to the public. If they don't listen to the warnings, though... I'm probably not gonna fight them, those strings can be cut easily and right now it would take one of us actually going in the shrine to fix it, and that's be very inconvenient. But, I am likely gonna get specimen ID-F86, make some \"negotiation\", and use him as a distraction while we figure out what to actually do based off the short-term aftermath of the party learning about fate. In the meantime though, I've got some new character logs to write.<br><br>- █████</p>"
-            },{
-              "name": "28th",
-              "type": "html",
-              "content": "<p>Well, I guess Syntrex has found this website. Hello to you too, Syntrex! For the record, I think Warren's is better than Pinkbox. Thanks for the grammar corrections, by the way, never expected you to give any.<br>Anyways, I've gotten the specimen ahead of time in the middle of his fight against the pink puffball. Naturally, he's very confused, and likely still on the high of being free, but I'll give him some time to calm down first. Once he does, I'll send in the puppet, and try to negotiate a deal. If he doesn't accept bargians, I may have to use threats, but hopefully it doesn't come to that point.<br>The plan is to have him merge very specific locations into very specific other locations to make it seem like he's trying to conquer as usual. However, the locations, as I said, will be specifically chosen, as to make sure that they merge well together, and we'll try our best to choose locations with very few to no people. After that, some may try to fight him, and we'll tell him to give it his all, but at the end of the day there's already people strong enough to beat him at his best. I'm not entirely sure about whether or not they would free his other half, but we don't need to worry about that. It's not like the little guy will be able to do much.<br><br>- █████</p>"
-            },{
-              "name": "29th",
-              "type": "html",
-              "content": "<p>Syntrex ended up using future sight with his <s>Porygon-Z</s> to see exactly what'll happen. (I knew I'd get it wrong, turns out it was not a Porygon-Z.) Normally this would be an issue, but it doesn't look like he's gonna stop everyone else from entering the shrine. He mostly seems to be trying to figure out a plan on his own. Does he even know I spotted his Pokemon using future sight? I don't know, he might, not gonna leave that possibility out of the question. He'll know either way because he can see this site, so whether or not he did before doesn't exactly matter. For the most part, though, everything will go as planned. Even if it doesn't, based off Syntrex's reaction, it's likely they don't need to go into the shrine, and we can skip straight to sending ID-F86 out. I'll try and make sure they do get in though, it's good to make sure everyone else gets the warning, and as I said earlier, Syntrex isn't stopping them.<br>Oh yeah, I forgot to mention, a Sylveon somehow appeared in the shrine. Dunno how that happened, might have to consult the others about if someone made a mistake during the collapse that caused them to get in there.<br><br>- █████<br>P.S. They're now sleeping in front of the shrine. Even when they saw the hut get struck by lightning. Does nobody going in the shrine have any survival instincts???</p>"
-            },{
-              "name": "30th",
-              "type": "html",
-              "content": "<p>Syntrex and The Ravenpaw Fan are slowly turning into my proofreaders and I have no idea how it's ended up like that. (I should get more sleep with how many typos I let slip through.)<br>Anyways, I've decided to start working on the chat logs interceptor. It's probably gonna stay in the beta for a fair bit, but that's mostly because this interception uses a flaw in the scecurity of a major social media platform that happens to be used by many people in the collapse. Every chat has a unique encrypted ID meant to be used by admins to moderate different chats, but with the right setup, anyone can try to enter these IDs. They're more like unique passwords in a way, each one bringing you to different chats, however you can't really talk in them because it was only meant for moderation in case someone does something.<br>... I'm starting to realize how much of an invasion of privacy that platform has because of how they handle their moderation. I know it's to be expected considering how major companies treat privacy, but... still.<br>Anyways, I'll just get back to working on that. One would think that this would be a problem because of cybersecurity or something, but I know exactly who's on this website.<br><br>- █████</p>"
-            }
-          ]
-        },{
-          "name": "2026October",
-          "type": "folder",
-          "content": [
+              "name": "Reverse Hot Dog",
+              "type": "text",
+              "content": "A sausage with the bread placed inside of the sausage instead of outside, as well as all the sauce used in the reverse hot dog. This is one of the few meals that isn't deadly by itself, which has recently been causing reconciderations as to whether or not this should stay on the menu."
+            },
             {
-              "name": "1st",
-              "type": "html",
-              "content": "<p>Another month, another folder, and another round of corrections! Don't worry, The Ravenpaw Fan, I don't mind it.<br>Anyways, they should be entering the shrine tomorrow. Syntrex, Seraphim, that weird cartoon Ravenpaw, the Sylveon (that's apparently named Faye), DarkKoopa, and I was considering maybe Omex, but then I happened to get more info on them and decided they should stay oblivious (and we may or may not have to make sure they're actually possessing a dead body and not an alive one). I'll probably update Omex's character file about our new priorities with how to handle them. As for Syntrex though, he had given a heavily redacted document about himself to Seraphim and cartoon Ravenpaw, which they both managed to read. The cartoon Ravenpaw actually did it by looking closely at the text and typing it out on his phone, which took a lot longer than Seraphim just looking at it. I didn't get to take a look at it, but I might be able to get into his phone and read it. I didn't color this website \"hacker green\" for no reason.<br>In other news, though, I've used the puppet and managed to do a little bit of negotiating with ID-F86. It may have required making him experience extreme amounts of pain for him to agree, but I don't think it'd be very easy to strike a deal with a destroyer of worlds otherwise. I believe I already talked about my goal with this in another note a bit ago, so I don't need to go through it here, but long story short is he'll be a distraction to make we have more time to plan.<br>... Now that I think about it, maybe I should've used the extra week to actually plan instead of taking the effort to get ID-F86 to give me time to plan. That wasn't a good idea at all.<br><br>- █████</p>"
-            },{
-              "name": "2nd",
-              "type": "html",
-              "content": "<p>They went into the shrine today. Syntrex, DarkKoopa, Faye, the cartoon Ravenpaw, another cartoon cat (Cinderpaw), Seraphim, and then later on, Entropy entered as well (and Green tried to get in but we sealed it before he could so he wouldn't see the horrors). It seemed like Syntrex, because he already knew what was gonna happen from the future sight, tried to experiment with the glass to figure out its properties. He also stored most if not all of the shards for later, but not before most of the others got to take a look and around half didn't like what they saw. Either way, the puppet then appeared after a bit, and I will admit that I could've done better with figuring out what to say, but it seems like everyone else got the memo. Seraphim was a lot angrier than expected, though.<br>Speaking of Seraphim, Syntrex ended up trying to make a deal with me to make sure she doesn't die in exchange for giving the shards of the mirror back. We already have a lot more, but I decided to oblige anyways considering one's death would usually go against their own fate. He also said he'd make sure to keep people safe once we let ID-F86 out, which is a net positive. We're in the midst of finalizing the areas that'll be put through this, but our main target is the underground because of how few people have been living there since the barrier broke. In the meantime... I have no idea what they're doing, I think Syntrex and Seraphim are looking for a supermarket chain???<br><br>- █████<br>P.S. Ravenpaw may or may not be going out of Kirby's basement. The Ravenpaw Fan will be glad to hear the news.</p>"
-            },{
-              "name": "7th",
-              "type": "html",
-              "content": "<p>So uh, despite the fact that there's a lot of stuff happening, I kinda haven't had much to write about this past little bit. The reason? There's too much stuff happening. I can't make a commitment to keeping up with that, because I have to make sure other stuff with fate is going well AND have to make sure ID-F86 is still sane. I just keep dropping in copies of Planet Popstar with a HEAVILY weakened Kirby for him to be occupied, and I still don't think it's gonna help because doing the same thing over and over isn't exactly good for one's mental health, planet conquerer or otherwise.<br>Speaking of that, though, we've gotten a good idea of what places will be merged. Areas in the underground have basically been turned into a final draft, so that's our main concerns dealt with. A fellow Guardian of Fate did end up giving a live-updaing list of which locations are being merged, which I kinda wanted to make sure was done a bit later, but we do still have that deal, so alright. (Just hope too much info doesn't get spilled though, I've already been trying hard enough to make sure anyone who knows doesn't start telling other people about it...)<br>Anyways, that's kinda about it.<br><br>- █████<br>... Wait, why can I see The Ravenpaw Fan in the void with ID-F86?</p>"
-            },{
-              "name": "8th",
-              "type": "html",
-              "content": "<p>So The Ravenpaw Fan somehow appeared where I was keeping F86??? I have no idea how he got there, but F86 just kept attacking him, and before I could tell him to stop The Ravenpaw Fan used some kinda machine to get out. I have no idea what was going on with that, but okay.<br>Anyways, I believe Syntrex may have something deeper planned for once we send out F86. I don't know what he's got going on, but it does seem to come at the expense of his bonds. I don't know what he's doing, but I am interested in this. Again, it's a bit hard to keep up with his happenings, but I'll likely check in with him at some point later.<br>This may be a little bit of a shorter note, but I can get a bit busy sometimes. Hopefully later on I'll be able to write a longer note, but for now we have to plan. Actually plan stuff this time though, not plan an excuse to get more time to plan even though we already had quite a bit of time to plan.<br><br>- █████</p>"
+              "name": "Warren's Classic 2x2 Burger",
+              "type": "text",
+              "content": "It seems like a regular burger on the outside, but there's a lot on the inside. There's iceberg lettuce that comes from an iceberg, ground beef which comes from the ground, salt, imitation (what in the world does the nutrition label mean by that), and the biggest part is the number 1 grade mustard seeds."
+            },
+            {
+              "name": "Greg",
+              "type": "text",
+              "content": "It's literally just a baby named Greg. Rumors say there's a guy being cloned in the kitchen over and over to make each Greg, however whether or not that's true is unconfirmed. This is usually ordered by beasts like caterpillars. Weird, disgusting, humanoid caterpillars."
+            },
+            {
+              "name": "srettirF elppA",
+              "type": "text",
+              "content": "It's an apple fritter, except it was made in the mirror dimension that appears in \"Kirby and the Amazing Mirror.\" There's seemingly no difference, but there could very well be an important reason as to why it's made in the mirror dimension every single time."
             }
           ]
         }
